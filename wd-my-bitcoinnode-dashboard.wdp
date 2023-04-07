@@ -77,6 +77,12 @@ project :
      internal_properties : CAAAAAgAAACLhSFtrhsTGbwoI0c8XDfilqQK8jMQ3gG2tMGQNkaZ1oXBazRqZyixEbYxTnGJNp2O
      physical_name : .\FEN_tableau_de_bord.wdw
      type : 2
+   -
+     name : Widget_Halving
+     identifier : 0x442faeac03426a14
+     internal_properties : CAAAAAgAAAD7VyNnRAEpMj2sj+1fccamP3xKEqnAjaJSenRy3Sf3Afv1wamaoTtTWsQ+unp2AvbeZg==
+     physical_name : .\Widget_Halving.wdw
+     type : 8
   other_elements : []
   net_assemblies : []
   uwp_api : []

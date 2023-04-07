@@ -57,6 +57,8 @@ window :
        internal_properties : CAAAAAgAAACMF4Z2FR15Tgv2ifRzR/LqHRqEFKlkHeXLzkSSL3Q59vDYB0UFVyk/GdAU7ZC1lVZayCE5yc6CJl6lakDD1pZD5z73dUsY5hAzMAr9UuEe+6EmonMrqjXuBeTs0BsSZb56hLO0DE2Gh/cuI2U/ZgDqaD05b/n1e+dUgzPpPN3hkfb2pN057E4wqxCkj1RO/f9OpdvO1pArbIg8Q5UsVv8qINg2xRCm1+T/nCTOxvLMJMasG99r
      -
        internal_properties : CAAAAAgAAADgqzY+pt/zEcb3Z1I/ES04TFHlfVzrvQaUOth7aAhLeIhBK8GwEIjUBGfRf/qIzeBWj2wcGVtClrYHPgNtzf6mXQX/I8pWAA4p13Guilkek+5JsF/rutyvow5mJNXMqybGDJeK0Z6zeAovcMWfGunlywoHB+Khcvf2xwwRZjv/Md2RcWM6SAVY6Gptwm2syEeqKCmtLoxea9DIg1OXsmqV2aWr2AHxIWvM54eU7OhHCzQ6icBK1GxhTMFZ
+     -
+       internal_properties : CAAAAAgAAAD8RxqefzQ13PneYzIlKdP+2dZY56vGQWQrhVBWNCB1mjyoEc5xjzI7h2Z6tc1wZ4lJLcFxuz3/gwuhKmp1PkabqZ7JNQlSbrYh5Lh10oYnFA8yEN/9KKnks4AB4VK1MG2LF455D4JBMKzTKLrKrfMpKQCMlMTISDg9CLAa5MBzfjfTbUcuXrxrCy5OcdJSgpyN209WdmDrTLkDQKNYD4TDK9AexRDuGrW0UXu9938hklK4Sy8b
     type : 111
     controls : []
     code_elements :
@@ -105,7 +107,7 @@ window :
       	dernier_block est BlockHash = gclNoeud.getbestblockhash()
       	si dernier_block.valeur <>	dernier_block_connu.valeur ALORS
       		dernier_block_connu = dernier_block
-      		_onNouveuBlockValide()
+      		_onNouveuBlockValide(dernier_block)
       	FIN
       },1s)
      type : 34
@@ -127,14 +129,17 @@ window :
      type_code : 14
      code : |1+
       // appelé si un nouveau bloc valide a  été ajouté a la fin de la chaine 
-      procédure _onNouveuBlockValide()
+      procédure _onNouveuBlockValide(block est BlockHash )
+      
+      // récup des infos de ce bloc
+      bloc_header est json = gclNoeud.getblockheader_json(block)
       
       //TDB_SansNom1.Affiche()
       pour i = 1 a TDB_SansNom1..Occurrence
       	widget est champ <- TDB_SansNom1[i]
       	// notifier le widget
       	QUAND EXCEPTION dans
-      		widget.onNouveuBlockValide()
+      		widget.onNouveuBlockValide(bloc_header)
       	faire
       		// ignorer si la procédure n'existe pas
       	FIN

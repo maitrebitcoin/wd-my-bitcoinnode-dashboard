@@ -119,7 +119,7 @@ window :
      procedure_id : 1454203161096922623
      type_code : 14
      code : |1+
-      procédure onNouveuBlockValide()
+      procédure onNouveuBlockValide(bloc_header est json <utile>)
       DemandeMiseAJourUI()
      type : 458752
   procedure_templates : []

@@ -1,0 +1,160 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : Widget_Halving
+ major_version : 28
+ minor_version : 0
+ type : 8
+ description : ""
+ subtype : 0
+window :
+ name : Widget_Halving
+ identifier : 0x242faeac03b96a04
+ internal_properties : CAAAAAgAAADAmqj7R/2fxymq6x7wP1rgvZjexS0u9mpNqy/cjXut5aIVpJ9mxm5WR59bND2GIPRAiRD1H+qJ8HrvxbBISFw1bSQIFiZVlTqb6QVrwhhagtFY0hIMtECMFt4DxbGmAeB8/AfTlYNagCKt0cHtUpy7t69zLqWx22srarcpaH+juAa9Q0qNSsvkNzzwVNSipJcJnMYUErCanb1oM2usO/+GWJevuiS+wy+rfpy5JSSVdAuCQNQK9KcLEOkw7hzVkufcLTXnSPeaMbjx2llFRsVYnYfUWOwir4/Fa3nkTlMI3XzS8rKaITbakz4R8eazmuu1qEG2vGJJ79ori3TftyuS+dzMlhsDAEMnubc/3NyTJWp9OKzQH9vnD5ChRapZvWtR3Ztn398bWEriTnSbo60kbh9nwOXdTm24WUgm453NYkpg6a1SEv6iB9cqI8gSQPPvtNJT+L7BYlvDfrKio0fp/eyp/taTSN9+X6dhhxZc1T8psfV/f1S9fgNWVDsqMil9dXUcrhZT/AvlRblmFNYDtByDtRIV+h+ARd2oSpQwWwLJhbMmDD49KyGYN5vdE0uSJ1SDik1GsTdYpv0xmL7FcsjZ9YodrXaJigCh/PTbaQ6s3OWw2IwyfBw9aUuh08eG+Fk62Zlt8cZ/eNSaNL9TEl3u/2WJnVtk3EcipZ7QwJ/gsUIOfeESO/bhn/bv4F1tJzfePfd2K8SbVuv0G9hhbkXd7Na6Vp1+p9UKO42IIH5ktPAQhNM=
+ properties :
+  width : 160
+  height : 160
+ controls :
+  -
+    name : Widget_Halving
+    identifier : 0x242faeac03ba6a04
+    internal_properties : CAAAAAgAAAA/YLuTg2Va7zUKHxD9WaOQIT0SXAGiZz+TqMOT9birlLhoW1liHzu3ujCwSUnsJjOzmICE7YUMcSvoRl1rGc4F90Fp5hW+ivesCufs7SNmMWUY0nAiEhDH+fPM/tMHyOLkLcPDOyLMz9Oa6f97blihxaT+2M2yK/flFZWuaIeVXThIN+puYos49J18ZbYF1icGZTiZH/nIS8Mcc9v0OXrd88y6v6xpJPmUXyHN7Af4mGixa9so1fbYMy5zLZywwpIRXQ8J8sdv0yNUgTUaKO/hsWcRMVJqwMJtQJOJ+ppuYSmLhYSyoMzFpFwokFxV1mFO24zGmKtZIIR5/OR7iMYycZx+PwGYmCw2U8bhYHYU8fWoRDkdsuR2I84yTu4MezLyn/XLViVpPoR8a47LSgu1nW6kfFuSv6+Kp932Lf2kzsPa3O3xE7IZBlJ/l0bDN6noCse1mVAY5ndDpnh0OEY=
+    properties :
+     width : 160
+     height : 160
+    controls :
+     -
+       name : LIB_NB_BLOC
+       identifier : 0x242faeac03bb6a04
+       internal_properties : CAAAAAgAAACt6L1ePkPIaZRBM1bsIMF24ACMSOLpjhkeZqa/5vwROHLT4IbAYYl3UeU+EFO1vMEH1G4tApr1QONNYq1phaZv1J9W1IugU9pwk3YEuITFT9qwn7v3lorJ9Ph8LlUhcEZO05ZXWV2fg7Ok6ZZWRrXQYnxcxzgM3ze3sv2Y+OaJS7UzFm2MkNTeh/Xid+qvcg/3LBcgqFGH/cFGZUAfn+WQbOj6OS5jsg5jSNT1qAblqU0WkODr+t8TSDmoe3WZ5u5xZ9UuikNwlkt7BToXA9GKbdLb50uq6ETa2XmugiCCJZ2e93norHj7Sajeld+zivQ+NPuKWt54l4wdYUQbceSjV6b6z5svy8XNGJbo3JfJHk5/a4tugUw0jZHxT5n3zNUiHubl7O8ZdPK3RrUMrf58wDYjYTI3wUtJtZzNM/S0K35t6slcs20Gfi9kxTIFNsb1UNtHN4Pw9Fu36FGUP/XP7tBKn44ZOaVHNpP8vkDW4/5rAOeyOJv0qrSpLGCFW5nzj6Y40OKYvPWlZnULGx+pdAUcJO+chSpNE5x8zvZGMcr4KDgI
+       properties :
+        x : 5
+        y : 55
+        width : 109
+        height : 51
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : TITRE_
+       identifier : 0x242faeac03bc6a04
+       internal_properties : CAAAAAgAAAAelB/qdN8xfzESeYh1amR+vnHctk7Ce0uN1IGnEB7Zdv/kwXIJ9I5LIUFjTH4UYSZvqznI3Ip9bbAclbRL3ooLhuo488v/9h2uYmbmPYHRXQYpZb4H0qbhMwp1toA+XeUZ5hqNMXGi98vQAplKQ0HJQwKFy4FcXMDm2MOkot8tdzck5gw0sQKs7r0TW9/Omuu6jGZSsEAwFoF3dx+/TqXAYHpctUoHtoq9GQ/q1Y1DL8YftS663FH32nUBfIzUUTus3ovreqeHZ1bMRFkSTS5h9cSW6Dn9Wz+PU5eK1FpQwO1FGqgJ0ggtINfTMdsHkWKDlOAMAq0+6AS6+FSqr+MGZVkyn2IAhCvak3ZhS3sACtdt6zUCbcF2aVyoOmpHIx1svtLN6kCRaGhmQx+D6i2FmjpBG/gDz7ymFcwKTJtiyhy8Hes+JUgw1FklkGtHab/3NvZ0mcZg4esWVCo4O7uYBM1/zi7YnN5P0ndhvUTxrMOcbOnGupbQTcLlwzZL+qH4oKjto3Y5maFhJtOxvWdz6z5+Ud/4
+       properties :
+        x : 9
+        y : 12
+        width : 145
+        height : 27
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : LIB_Blocs
+       identifier : 0x242faeac03bd6a04
+       internal_properties : CAAAAAgAAAAVasYavx2Drza5DtJhwGAW1E+yvrLPE+S9HGjaGYFXQVka3sVbuv3/ov6109ZlPSRcbkmFyCgzNJULUV+2lAkQmJww7mzy9a/vC2onfeTK1yoNku1difoUwG6Vb0vv7ItFWpsZpMbMJDcox1Odo918Iul7G7b029tzlsa7nI18G83zaJLjXyNjleKc80uO8NtTlzRal3H2VQWwVsOw8Ff4lStfmhmnEwk6hyfIfRBZFceuxur4MEO/FIx198KR+FyMuUE+uHoym07YAMg4gsKtillanHOl72TrvePPF35iVQRqnpwfIzXPp1hhNcSF9De4UdqPihA7VVDwJZN/7G8kFIC9v7bmrkyohJ4Zu6/CJ76w50THrE1EIZ2GYj9IbTRvKPJCXtOOmeBn/zPAbFtXUzYGnW9LO9RBXDTCUivj2uzPc2whHOfTgzrDmb6/EBc=
+       properties :
+        x : 120
+        y : 76
+        width : 34
+        height : 20
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : LIB_DATE_HALVING
+       identifier : 0x242fb06704ca2c1e
+       internal_properties : CAAAAAgAAADXwjoFxrxwp7zchpK8VCIjp/DWE3loFW9m5rsaOfqp4qt6/yyb/Yd5GBjHDHL/J6yNLkIJ5ZYHvNX76rQjF0G8HHbPZ0IlYd8gQa4eSoYJR5Y/D1wgfcl6Ly2ZWwQxTU9ZyU6lpKxzN7LfiBa5FSZtgSqSM3pTFhxTBuszE/udtF0e0DGyd3DshMyOXGeH09mTDO61RiZnsUs+AeVGS3i3ybF+DuuRxUpiWSIYFqCid2g+T16T1/Qzu4OTKVdTu9TVJ1cv4piJMusDrGhLEsGKTpY6rbcLYh8DhE+nA5mDR5bRwb9JcDLhupToP/6jgtReStwqs2N92X8GIDxaoU0uEMjtgZQCPBTKbJAw0RgEE38S8Y2Va1CnO5CVekqp6KUtfERSLix6h4ZIVWrurU4Q6PYihd+cKvzVOHZM+ndm1Izlk7moYxHYcpSYiubr+JE1J+3BgmEP7uGQ0lEwQ7CKhpaOUf+P/uKNWOjHhOakCDiLfxdabBXx468CYV0Gf4OPq/v9AdYKeHOWRgxB0fh9DJj+YRaBsbZ8+GaPhMXKpe/NRVwXB9pLSpzvaRGJ50MTc9O2wZpCFVgIuTusaRdO+NpS
+       properties :
+        x : 5
+        y : 102
+        width : 151
+        height : 45
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : TITRE_1
+       identifier : 0x242fb1cd057fa34a
+       internal_properties : CAAAAAgAAABNZKLQ2Iy7WqhUiE08V7WI5aiPt5yV/LYBlOWBJYjZtTvBJU9OUfs04b/ArRKzsCyWpL3rYbqf/jxnFyRsLHVbGnaWAH3l2oM+gOhMH7KgjoYJx5b25VuROqjLlamUs/P/UzGImhHqo6pLhL2O7QFqILACkG1eD5ZzuRHOOUdK2ItTqbQCYAlmJl7YcunJ9n9ro0fdzAGAnYjhp/Ey+yYeTNo8RIb91XMzbAKqMg9ImnOqFdhx/5SISkmwpd9ftXRzdYPFWg5rSxNCmzbaji6s+aJghuCm5xGuJ85/5jLoDKKyKk9vYLm/YAbCpaxEYwEs1DkuXFar16ur1a7432aA6AYW6mH3iXUy+H1+wfuecIs+/5FxWVPeM7MQ8QfZDHx8K4yuBvTa/qdfj0RfHCWsRMhyKPylU4w/ex3QjRZdyV9t7EUwDprU21Sz5zYrYL47wA9J5YDf5InfT6Np8k+AlvfnkER+WvcIsYiHXFuyeLCqupYgwVe2K6UHzPt5ZBnvZBJ074pJPHydQ9XA1+heSS1FDF15r2ADPso=
+       properties :
+        x : 8
+        y : 36
+        width : 145
+        height : 27
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+    type : 32
+    code_elements :
+     type_code : 70
+     p_codes :
+      -
+        code : |1-
+         PROCEDURE MaFenêtre()
+         
+         hauteur_chaine est entier
+      -
+        code : |1-
+         si hauteur_chaine=0 ALORS
+         	LIB_NB_BLOC=""
+          	LIB_DATE_HALVING = ""
+         	
+         	retour
+         FIN
+         
+         // calcul du bloc de halving
+         num_bloc_prochain_halving est entier =  (hauteur_chaine -modulo(hauteur_chaine, 210 000)) + 210 000
+         nb_bloc_restant est un entier = num_bloc_prochain_halving - hauteur_chaine
+         
+         // calcul de la date
+         dureée_restante est durée 
+         dureée_restante.EnMinutes = nb_bloc_restant *10
+         date_estimée est date = Maintenant() 
+         date_estimée += dureée_restante
+         
+         
+         LIB_NB_BLOC = nb_bloc_restant
+         LIB_DATE_HALVING = date_estimée
+        type : 234
+      -
+        code : |1-
+         
+        type : 17
+ menu :
+  name : _Menu
+  identifier : 0x2429ab87023c4b1b
+  internal_properties : CAAAAAgAAACNN/aJULRILqSqdPc/nbg/wIz886TchdeN+THlc+/6YoWg3cwXvl7OHZRr+rWpuAow9bfsBaNK0AYG9f5bkmVuXQH94A3Ke2UqltxsUZoHgcKER6Ga9SO1L6pIsnUGyYCOlss6py5mRLd2F72+sNpMXD02duqs8w4QVmTwRTJdUgd4RaqH5dA48SjgkkPT9vyb9aeEZVq9+H3YQNEpVrkRKUeXElmSewtSWYUB/KpjTrIQ3YABNqaslssTubHml3O8WNYw2JBxuaKbLNaW9uR/xGUpHCuhBg==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar : {}
+ actionbar : {}
+ code_elements :
+  type_code : 71
+  p_codes : []
+  procedures :
+   -
+     name : onNouveuBlockValide
+     procedure_id : 1454573258428148228
+     type_code : 14
+     code : |1+
+      procédure onNouveuBlockValide(bloc_header est json <utile>)
+      hauteur_chaine = bloc_header.height
+      DemandeMiseAJourUI()
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FI_SansNom1
+resources :
+ string_res :
+  identifier : 0x142faeac00656a33
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
