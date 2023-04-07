@@ -83,19 +83,22 @@ window :
      type_code : 70
      p_codes :
       -
-        code : |1+
+        code : |1-
          PROCEDURE MaFenêtre()
+         difficullté est un numérique 
       -
         code : |1+
-         difficutillté est un numérique = gclNoeud.getdifficulty()
+         //difficutillté est un numérique = gclNoeud.getdifficulty()
+         si difficullté=0 ALORS
+         	LIB_HASHRATE=""
+         	retour
+         FIN
          
          diff_2_hashrarte est un numérique =  0n7158388.055000026 // = 2^48 / 0xffff / 600
-         hasrate_par_sec est un réel = difficutillté*diff_2_hashrarte 
+         hasrate_par_sec est un réel = difficullté*diff_2_hashrarte 
          
          // vers chaine
          soit (valeur_affichee,préfixe_si) = hashrateVersValeurAffichéeEtUnité(hasrate_par_sec)
-         
-         
          LIB_HASHRATE = valeur_affichee
          LIB_unité	 = préfixe_si +" hash/s"
          
@@ -120,6 +123,7 @@ window :
      type_code : 14
      code : |1+
       procédure onNouveuBlockValide(bloc_header est json <utile>)
+      difficullté = bloc_header.difficulty
       DemandeMiseAJourUI()
      type : 458752
   procedure_templates : []

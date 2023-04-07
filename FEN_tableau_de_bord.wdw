@@ -102,7 +102,8 @@ window :
       
       
       //  vérif auto toutes les 3 secondes si un nouveau bloc est arrivé
-      dernier_block_connu est BlockHash
+      dernier_block_connu est BlockHash = gclNoeud.getbestblockhash()
+      _onNouveuBlockValide(dernier_block_connu)
       TimerSys(()=>{ 
       	dernier_block est BlockHash = gclNoeud.getbestblockhash()
       	si dernier_block.valeur <>	dernier_block_connu.valeur ALORS

@@ -39,12 +39,12 @@ window :
      -
        name : TITRE_
        identifier : 0x242faeac03bc6a04
-       internal_properties : CAAAAAgAAAAelB/qdN8xfzESeYh1amR+vnHctk7Ce0uN1IGnEB7Zdv/kwXIJ9I5LIUFjTH4UYSZvqznI3Ip9bbAclbRL3ooLhuo488v/9h2uYmbmPYHRXQYpZb4H0qbhMwp1toA+XeUZ5hqNMXGi98vQAplKQ0HJQwKFy4FcXMDm2MOkot8tdzck5gw0sQKs7r0TW9/Omuu6jGZSsEAwFoF3dx+/TqXAYHpctUoHtoq9GQ/q1Y1DL8YftS663FH32nUBfIzUUTus3ovreqeHZ1bMRFkSTS5h9cSW6Dn9Wz+PU5eK1FpQwO1FGqgJ0ggtINfTMdsHkWKDlOAMAq0+6AS6+FSqr+MGZVkyn2IAhCvak3ZhS3sACtdt6zUCbcF2aVyoOmpHIx1svtLN6kCRaGhmQx+D6i2FmjpBG/gDz7ymFcwKTJtiyhy8Hes+JUgw1FklkGtHab/3NvZ0mcZg4esWVCo4O7uYBM1/zi7YnN5P0ndhvUTxrMOcbOnGupbQTcLlwzZL+qH4oKjto3Y5maFhJtOxvWdz6z5+Ud/4
+       internal_properties : CAAAAAgAAAC86do7ZHnAsOuHdFQlHKNuI4upUIgUPgTG/0qbmmWyeZCMNDu2652VPGF5jQSJ6hs+QfFv2O5ctXlbVm/MSDvOyrAzBKpYdcFkNSU2lbwP+c9urGRgnZvVjrZlDVi9V1o6eEJJPyr117AVBIh7M3TiVamR/rrdWc8bJjbAPadid3g5nutqwaa98pdlrfKmQeXMg9WIFNA00iyv0/7lgch4IlHMuUEuPU62p/v1EQcY7YfVUJnmRtwkwGJRbIOAYQIODYYMezDut/R4Eithy/Dckl0pAeVGje6qWt8ki3zsjUYCN3+PXXqMuwYvO5gn7bVk6cP1WGLCMXmbumT/Zenb0OBLEuL3crpB7k7XJK204Z749Fjw3EHrto1YDK8P4/DxD7EirIO7wUWXxy22qA+6Q7fucgoey00TPtRYVXEisyN3bMMDFwkywGmGxdv+PMN7jtJcyt755IrWC/fQqhOoI47qcXl8VMtRLygsFCX2/e+6ge7eoHZ5kF2JAyR9lFYAN0i4KhWdrA==
        properties :
-        x : 9
-        y : 12
-        width : 145
-        height : 27
+        x : 5
+        y : 11
+        width : 149
+        height : 28
        type : 3
        code_elements :
         type_code : 2

@@ -70,20 +70,24 @@ window :
         code : |1+
          PROCEDURE MaFenêtre()
          
+         dernier_bloc_header est json
+         
          // rafraichissement auto toutes les 1 secondes
          TimerSys(()=>{ DemandeMiseAJourUI() },1s)
       -
         code : |1-
          // has du dernier block
-         hash_dernier_bloc est BlockHash = gclNoeud.getbestblockhash()
-         bloc_info est json = gclNoeud.getblockheader_json(hash_dernier_bloc)
+         //hash_dernier_bloc est BlockHash = gclNoeud.getbestblockhash()
+         //bloc_info est json = gclNoeud.getblockheader_json(hash_dernier_bloc)
          
-         SI bloc_info.time=null alors 
+         SI dernier_bloc_header.time=null alors 
          	 LIB_HEURE = ""
          	 LIB_HASH  = ""
          	 retour
          FIN
-         date_heure_bloc est une dateheure = EpochVersDateHeure(bloc_info.time)
+         hash_dernier_bloc est BlockHash 
+         hash_dernier_bloc.valeur = ""+dernier_bloc_header.hash
+         date_heure_bloc est une dateheure = EpochVersDateHeure(dernier_bloc_header.time)
          now est un dateheure = maintenant() 
          duree est une durée = now - date_heure_bloc
          
@@ -106,6 +110,18 @@ window :
  code_elements :
   type_code : 71
   p_codes : []
+  procedures :
+   -
+     name : onNouveuBlockValide
+     procedure_id : 1454582724539386287
+     type_code : 14
+     code : |1+
+      procédure onNouveuBlockValide(bloc_header est json <utile>)
+      dernier_bloc_header = bloc_header
+      DemandeMiseAJourUI()
+     type : 458752
+  procedure_templates : []
+  property_templates : []
  code_parameters :
   internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
   original_name : FI_SansNom1
