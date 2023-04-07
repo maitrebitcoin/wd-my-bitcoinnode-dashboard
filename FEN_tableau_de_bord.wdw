@@ -13,9 +13,9 @@ window :
  internal_properties : CAAAAAgAAACJ8vjzI3eqJpl3A35qLuvNReclE2LwWolC3uBu4POQo+/0ElUuXlMpybuzpQvqi+fnCRaO4FuQo6HepSCTy+0KBvjZNa0fuj8xoZrCkR8vUnCtai7X6+kZtCiyH+sw+yp/IpxcLHhEoicgSADixJGRDTXuOp7Oxft7m1QKBvEIYSiVpjWj0eGavXxbU2lnhomDW2eAbmZ0jpbIhwdsITEDfC3MOoQliPFziBFE8ZDO1RcQ9SedhDP0lKVxtef7sv+lL07EKSYLtLKyfgIxeC16w4ls3hKnHhxlBHdOteR5DH3ypYeAiwYKs9GQ5rwnXySigyckhtIkZpJ8sWkJTb4AJ7nkPzNQqB6D2LJeTGj0WlczY3dySODVfMWYEWTWE6+DuqKFnTSu8aDOJwTI34RXzZ0BfoRzV5uDJcQ1u7LKZROJAUBsxmzpyufLvi9ZpjdeGMDIIl7eBzH1/j7YqSv6HoqRvZ91Ud5tvcbO/IjB+yE5XfrbjRA/++3CpmFjuL3c4K4N4NiaIhMlwOovMTZRn7GuXeN896A43QYuiFgL+E1Hjp6yIF7hqhWH/X8KH8v0Mp0lsqlIqbbyO+4kVR4NfkiU+7WXE5LRhZkjne3/UPJGWpKL3ATG+cm+R6eGr8yZpptcN8icQL51yvn8N4xX1giZEbLGjpUX7iWq0yJ/oWxGpqkUS+bgKbfhWv7pQg89lQmd1BmAJL8DN4DQrCazPfolfJApQ1vHikFlrGUlY/xQgBou
  properties :
   width : 800
-  height : 561
+  height : 396
   widthClient : 798
-  heightClient : 529
+  heightClient : 364
  controls :
   -
     name : BTN_SansNom1
@@ -45,7 +45,7 @@ window :
      x : 72
      y : 6
      width : 648
-     height : 517
+     height : 352
     widgets :
      -
        internal_properties : CAAAAAgAAAA1WP/rXuQyDothj1JyQKlUMqW27Yp6cWvvXbFvvC/pECY+FOvB9W3ApNfk6kDvSCOJQzaqEjpO0ULbKMq9s79GhW1dwxoe6+RJP9EjQ5KVM7gWVsaM3MO8rtA+6bpenbmQYpzRga3ppashD+4cyUNkv2wT369S4XGAUs/40o7yJQvj9QDQZmeK1otd5LvbmrP5koOTuTiF+g2z2XI3QxfaP0dJbYg3TEgiovosTa6Uk8pTR7UQT2Ti61M=
