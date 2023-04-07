@@ -1,0 +1,135 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : Widget_HashRate
+ major_version : 28
+ minor_version : 0
+ type : 8
+ description : ""
+ subtype : 0
+window :
+ name : Widget_HashRate
+ identifier : 0x242a5dca07c19b55
+ internal_properties : CAAAAAgAAABlOkwRgrJQc0gOBSpDx91qgtB03qhBfAHFfkWfTk2AvTkTBEyzbCQgjHvhKrrD0xESLsUZB1f9E2lWIZqD9D9RdGoQduEOMXkzIWbPyLgQ7GucJ05jOx45EPZWgEU9miCP9YxDFXRs1C1/q2gsq82HWUwd8ydk6DNtyw+dnsvPmP9znWGVHOkHyqSzXAg52v5Ei5DHyhpnklQUc3eFY87wKYr7NGKhJkPpdKfWZnYTXr8U0floUgjYZB3pDyO6vrYrh1j9CHXaYnAVErhv8vUaKkyRG5wJ5MZ+0eSVOcoysqq8rE20Sef/2nk+xxh54w3C5vqTlfN/d0qQThd3NkNP0IDYfS2bm1xyPGTUS/4o+/VEB/HaxekNpxTl8gjwnbBnEzj53JgIkpZkucHvuFNrJGPoblAg0xfwLwH9XWSTZXTKIMWdub/CBeOV+NgrYIz/ilk1ae8uOPsFhev+9ptGicRINiMs60fY7eZS6cVw9BXBnnl2xlerNg+bj3n9QhSP10wskYE8MBUNroAm5SKeuLqmsZ3YB2kAqYZ3FkmcylrVVsH9t7dd+V8XcO84D1a2X9Nl0Xi9cd1ix7zHKVJgPPIoDWeWgE7Dkm3cIrVR9sqwp4nRbWFEeP6KVAl6Z4belBoQGOBAz4r1Z2USOwk06v2NMdyYKO/gKORNg8EE9esONOARJKhiGUii87dFI4BHTU26WWwhc3gnIj26GPqSxYlDkECQcPCic5Vvgw9Tifjxg0qVzJHop48=
+ properties :
+  width : 160
+  height : 160
+ controls :
+  -
+    name : Widget_HashRate
+    identifier : 0x242a5dca07c29b55
+    internal_properties : CAAAAAgAAAA/YLuTg2Va7zUKHxD9WaOQIT0SXAGiZz+TqMOT9birlLhoW1liHzu3ujCwSUnsJjOzmICE7YUMcSvoRl1rGc4F90Fp5hW+ivesCufs7SNmMWUY0nAiEhDH+fPM/tMHyOLkLcPDOyLMz9Oa6f97blihxaT+2M2yK/flFZWuaIeVXThIN+puYos49J18ZbYF1icGZTiZH/nIS8Mcc9v0OXrd88y6v6xpJPmUXyHN7Af4mGixa9so1fbYMy5zLZywwpIRXQ8J8sdv0yNUgTUaKO/hsWcRMVJqwMJtQJOJ+ppuYSmLhYSyoMzFpFwokFxV1mFO24zGmKtZIIR5/OR7iMYycZx+PwGYmCw2U8bhYHYU8fWoRDkdsuR2I84yTu4MezLyn/XLViVpPoR8a47LSgu1nW6kfFuSv6+Kp932Lf2kzsPa3O3xE7IZBlJ/l0bDN6noCse1mVAY5ndDpnh0OEY=
+    properties :
+     width : 160
+     height : 160
+    controls :
+     -
+       name : LIB_HASHRATE
+       identifier : 0x242a5dca07c39b55
+       internal_properties : CAAAAAgAAADU304cYKwSEm48Df7ChXFFyb+XsqwBggP6VxSB53+nZhJwd4vICrBHhTp2MrX0Ph1riZMRmWJ6nZJRZ5X4NP+8UMayOFq1Ql0SteFyZBUicWXVOzZVzhqMsRkj/ZZ+LmcnlBPB2H3BTvlHlZHzpXNh3N42eBihFUhTopSdW4snUKTkiB6/SFOjnFehodP2iEvTZRgZ6CPAv2V/3nRkbqZxSLFVBVlMVdOSaIPKpWHXWo2WGcn2TJBndRMMOmOLyrfcQ/4MSe3lKnvjMK4vxpeAU1DV8gqA105a+C11UYRC5H8sCJKTUJHrN/WkzA6z7qkIwrLJRfCJmQgIvT0+zwqknbi1HqCvOLsJ9xJvT5Wf0eY7nkIrZSUw9/hXTPLbXLJSnhNO9TPolpJUNDK/t1gLCtamsCWTIMU5VPKq8mR4utiZS9aB3YByXNC82Du5ZpuXoGr6YBGNZkMwuGb05kEqv1ElL+wmlvjkmclWjnIyu0qiT/2q5K8Xxb5cF3i1BgjMydze4RtSnhm9Q1k1PhlvCXQUg79wzx3QQHBbhML/JxbnZKs3ysYbEDw=
+       properties :
+        x : 5
+        y : 62
+        width : 149
+        height : 45
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : TITRE_HashRate
+       identifier : 0x242a5dca07c49b55
+       internal_properties : CAAAAAgAAADS/dJ5Yigt+viRFBL9poSSAIIxFUDvV3oPVWid0ynP7K8FhJdTV7BaniDuYvMnF5Dvcm9pBsAo8k2ZDsF4U85tWVCB12VnQsAy3E+KcqJVWGeg1HkQwmILhz2f2DTLQ2BMdQ874rQeTtCUUvJ8vorNEVHDW4GBcYFBiOduenvjKygheHWjrnrBcSgP/cwRyaYtF5VgGtt5shKtAXc7v1cbl6CF/rc21lYYaPK8g/OuBqzJVaHBDGLsZZkJLRk2acHoKuNdRM8ZmRY1DfhxZWSrmKJIopLJOPAwAX6F+aDeijThbohApL22cTeQklAZ7Y4CtAjQNc0J97e+dalJoc380IN4RfEIdxKxU+V4JgXKgCz7jf8TUfZP7CiTiY27pxmLwvaNA+ys08+yyCzAWGExz6JtIx9B2nsB5ysJ5WuYJEuiD4x23MZKzvpYImTWdkKbxutZFlKoJu6mp7aqaFgpj2AxKzBUmMLZHBmahpVj9r2XzxmqMNr1lS7utN+5De7BQQ==
+       properties :
+        x : 9
+        y : 12
+        width : 145
+        height : 53
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : LIB_unité
+       identifier : 0x242a5dca07c59b55
+       internal_properties : CAAAAAgAAADv+nWJou5DgZZiV7IlGvOjKe8QeA2sIC19QRc2N+wuY9IUAz+9xd7/ofkrXdaeNBPMg5r0MV+js+WPUyBbr5uhMITnzX+Dz3y4tigFqzXFIZwoExyQPkYdooabmdhQ/Hu8asKp/yliCgJbbK5jRNkzi3jdqTd0DW+sDIwd027cv602FfQP8KVxqeYSyc+fC65d5dulZ8nUG1rdtyYVPDNr3f/1ctFNvdaDqmwDh3ji81mJ03uUbFr0ulTBZaetcZoTdU6jBgiKEt8Aee+7e3tASQWMH7YVun7nmGsJxs7HcV9f40tla51wiehXF3Se1ltxkLrLTVpwVPYxdgtpnjQ3rCj63hbTs6wDK4xo8l6qRlFx1CDSKKvLWXvSU4byT4ySX2A43rY7gHr0/IMH2PhceiGGZqd38a52pZD5Wsd88TQRbFPJOdJ3nPPEzsqKcPCFsSkADL9QXpBrmcur0ZD4BSaiWWwP9AKZyzRY4efA1UpvNOSCqR6j/R+ZdHjwSO9TZQN+pPosmiUbOaY=
+       properties :
+        x : 59
+        y : 110
+        width : 95
+        height : 20
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : BTN_Refresh
+       identifier : 0x242bc41b0394454c
+       internal_properties : CAAAAAgAAABULQBw0o81rmvljRQHoL5V++1b6xq5+aaO9DB7iNdmgM9kquaYvB4hDIE6LdmLEVIMYO7sZ0rfEiDrXqTNtJ+PyZ5+bqZ3eqbmo8/jG6gUyoFIcB1z/m1NeeFpjZ9+/X27of5p9TZtRhlXREKFHfttexfy1gT51VRe+P5VAkaDzTVmWjkjxTVt4i46uwkQHRm6ybPd5Rk1d6zFmNvr33C/TvZAPsufV1T0UP/S06VxwVbf1Gut0oDCbQW5NQIdHbwOa1PH1Hc1c2JG47uhyRN/yFwGzyqZ2VuRolsG+WGqq5qkHhI9aX6pR7ryHauDSMp3A5HEkO5oeIN2gjVVVI2uNGzT0uIoQBXQPTEgM/83ZqBlCNZ1D1dljljFQr9IYmp/HHzC5Mck9CBFTb7bUWpjqCG0DsQwhA8Cmjm82+Gg+xwgSsp2UbeKLTFtgL+Rc3Vi2UOJ7HFD7G1F5bR7Kg5VHdAw6lWBGN00pkiYIWV/igX3a5XhrwxZB/Ckc9b/eRiS0yzZTyFj/XHriGIpYtbl6ZD7/rjag9fEfDLIXzAWY6jol2vgKi8L+O66LFLmwjO/WuHTaW7j2iY9WXnICtLIh5v/kZ/wCHn64mv4UiQ+8/MV6QyxNH1dUJuvJvruioVxk5pAknBPHZXrHkrORvo9RLw4k5gL6/m27g1dgU724U2XFjavg2S9yhMgavVupZzYdUmOTuZK93fz09ET/lomm1omTJBbpei4XBf74vKDWnW6n+2/AO39Rec+I4laRsvxH1FpaqguFcz2E9dn5ghCbO4bdUN40hp3R5jAd0u2gWBCqRqaz1WW+AXHiHOijTnz1cKMqN0IZ5czDmll5jqbIwSV9cWFF7ScvwkO7Vmj
+       properties :
+        x : 5
+        y : 120
+        width : 38
+        height : 36
+       type : 4
+       code_elements :
+        type_code : 4
+        p_codes :
+         -
+           type : 161
+           enabled : false
+    type : 32
+    code_elements :
+     type_code : 70
+     p_codes :
+      -
+        code : |1+
+         PROCEDURE MaFenêtre()
+      -
+        code : |1+
+         difficutillté est un numérique = gclNoeud.getdifficulty()
+         
+         diff_2_hashrarte est un numérique =  0n7158388.055000026 // = 2^48 / 0xffff / 600
+         hasrate_par_sec est un réel = difficutillté*diff_2_hashrarte 
+         
+         // vers chaine
+         soit (valeur_affichee,préfixe_si) = hashrateVersValeurAffichéeEtUnité(hasrate_par_sec)
+         
+         
+         LIB_HASHRATE = valeur_affichee
+         LIB_unité	 = préfixe_si +" hash/s"
+         
+        type : 234
+ menu :
+  name : _Menu
+  identifier : 0x2429ab87023c4b1b
+  internal_properties : CAAAAAgAAACNN/aJULRILqSqdPc/nbg/wIz886TchdeN+THlc+/6YoWg3cwXvl7OHZRr+rWpuAow9bfsBaNK0AYG9f5bkmVuXQH94A3Ke2UqltxsUZoHgcKER6Ga9SO1L6pIsnUGyYCOlss6py5mRLd2F72+sNpMXD02duqs8w4QVmTwRTJdUgd4RaqH5dA48SjgkkPT9vyb9aeEZVq9+H3YQNEpVrkRKUeXElmSewtSWYUB/KpjTrIQ3YABNqaslssTubHml3O8WNYw2JBxuaKbLNaW9uR/xGUpHCuhBg==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar : {}
+ actionbar : {}
+ code_elements :
+  type_code : 71
+  p_codes : []
+  procedures :
+   -
+     name : onNouveuBlockValide
+     procedure_id : 1454203161096922623
+     type_code : 14
+     code : |1+
+      procédure onNouveuBlockValide()
+      DemandeMiseAJourUI()
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FI_SansNom1
+resources :
+ string_res :
+  identifier : 0x142a5dca00429b74
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=

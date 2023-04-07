@@ -1,0 +1,115 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : Widget_NbBloc
+ major_version : 28
+ minor_version : 0
+ type : 8
+ description : ""
+ subtype : 0
+window :
+ name : Widget_NbBloc
+ identifier : 0x2429aba6023fc656
+ internal_properties : CAAAAAgAAADPkXe4gKXjP8HsDf5eTwDEy67KG5feivo9LXEYx1fbkZx/5ClUIp4GD1H9Bt1e+nxis5wLMdK96A4112DWWGxF1zaESNgJLU4vU7vvSCxU4rNi3qSanKT0SmAJvfueU5DqqhtVexv2CDaf18lnysY36THn6GuJrx8L1O3Ryp8R4MDXl7TvDiN4a/aWGDrGGo9nsprueBD24QUyJSN+Q1nGWlHbbGLe74tLWL4Zb3ybfDloFHYgHKMbYNtyKtKRxI9mx1Vt1kcGcWjDlIlXVu+48028Vv7+v3P5de/oTF+2RZ40IjgYoTJ26/A71dTveOuXSsFMXg7xI3IxgbAFa+EWc04YoLHbbNsHN63LSpgp8SBLhLbuP4ef18anwCmk4hD0fjTc9B6OLx0Lb7v6fmIRNTRcURa0QUDPLp1Z/pT20xWpour/oZHZ3swfBs89mXzWEbdwBZ2koRoAO3111vT2oLXyu8uO31bx2GB4LhFl3m5efjoUpl+ohehzt5rt02o0yiLlj0nyfw4WNnjlF9fEt50cqme42b5zRpYHuYfhLE2i7tgDa6GgTgLxLlo0TGT18K0k0ywJ7GI5hyx0A9cWZWkqohdIFKHkUxkI3+fovv2JIZYRY+uVYzkCXEL4HNh5+Qp3ppR84OFI+UsZuyjMlZaH6DYA0MaRizZzsmObS3BDLFF1gqIv1CF+2PeEc1hmSuKllEhrHHX+yejpFOdwB9i4i00LC26fkpg/VDpjC0urc7FRe8w=
+ properties :
+  width : 160
+  height : 160
+ controls :
+  -
+    name : Widget_NbBloc
+    identifier : 0x2429aba60240c656
+    internal_properties : CAAAAAgAAAA/YLuTg2Va7zUKHxD9WaOQIT0SXAGiZz+TqMOT9birlLhoW1liHzu3ujCwSUnsJjOzmICE7YUMcSvoRl1rGc4F90Fp5hW+ivesCufs7SNmMWUY0nAiEhDH+fPM/tMHyOLkLcPDOyLMz9Oa6f97blihxaT+2M2yK/flFZWuaIeVXThIN+puYos49J18ZbYF1icGZTiZH/nIS8Mcc9v0OXrd88y6v6xpJPmUXyHN7Af4mGixa9so1fbYMy5zLZywwpIRXQ8J8sdv0yNUgTUaKO/hsWcRMVJqwMJtQJOJ+ppuYSmLhYSyoMzFpFwokFxV1mFO24zGmKtZIIR5/OR7iMYycZx+PwGYmCw2U8bhYHYU8fWoRDkdsuR2I84yTu4MezLyn/XLViVpPoR8a47LSgu1nW6kfFuSv6+Kp932Lf2kzsPa3O3xE7IZBlJ/l0bDN6noCse1mVAY5ndDpnh0OEY=
+    properties :
+     width : 160
+     height : 160
+    controls :
+     -
+       name : LIB_NB_BLOC
+       identifier : 0x2429abad027cdedf
+       internal_properties : CAAAAAgAAACDREM7fmkOfFe0t6XSaV7QSBfe7Bu9F3NgzNUjQRgyqj6716ZX8qqgVIg/QNxFICqNjLLF0PsnEsF7kHg5Bqcz3Wt4bHz+vx34pI9v+FmJASyo8N78YIh3NaxASNz2loU7EhlgQOFX4OBLOl6NHqtAjuxSr8BqTLV/waQqk2rYXBYqpAMlQJuUQo/YJV9CNyOakQZonyTYxf0C04gT3beV8SAxoBsR5UslDmPyzUF86AX+nyqWJ0lZH8Pz6FoB1SL26MlLDaNUsobTzYjsGYTayhHvpUVB4RzidDIb3onQKUECc0tdqTjNRyc/bp/UvuDKBJtUheOic6CEfnGnNBjhpao+KW5co9HRnRnGUdjlwpEKQuokV0HhZgs1KYDbWUjXHR2I8humQfdbYPl9O4nnTYlmhNZXOPgy68SL6lZZpitgVfAAC+KZze8yp+9r1x0aP1pGh5dHVfDJfFcvMW8jtWWaNp4XioOx9qmAeqvvOrIuxKtkykj1lW4ACjVshbK0mGFOAvMEz5j0+vGvv2XBvdh6B6UnTfYX1MvlJi+6G1BJWJY/C8CauoACILiE8g==
+       properties :
+        x : 5
+        y : 62
+        width : 149
+        height : 45
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : LIB_Taille_de_la_chaine
+       identifier : 0x2429ac1f02b29c9d
+       internal_properties : CAAAAAgAAACkEqjXphfquS06Dd4T9auxeYY6MZsDB8tJ565wlALGkOMy7+VSnJKeEzoXBwUPUdAcl7w08qbUvxUP7vJOsVO06a79vwrWkCZf2qZQqfWHuEDq3JELnHeLIFgV0jImRpAMK/BYAGqhLm5fV7xq/HkY7siR5GRBDU+bLbzLlNZmtUxsFujzA9IVofoSR1HjKqOVh7djfw6uNeTA7PhtqEE3I76FRNeRGjaeeZ+Y/n7bBk7ml5M7MO/WPkvNClZyxNJe0X2dFqBIYdcbXHqzzN7iFzMWguYAIcJX5xWFg69gR8Vg7npYv1LE0q1rKG5+Z2X5XTLoLwI0n2ZY5EE9fAvRndTGLevtQqYqp7wSRvD1+YpHxh8qXaTsgthMRwb2WDmQXRJ+Cvwnujvb2boOk43pV3qw1dhdhByXVdTliLNgicSavzmzGPiB9dH7I+qQnRclha78xll5sqNIgupekzygxj76P/s=
+       properties :
+        x : 9
+        y : 12
+        width : 145
+        height : 53
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : LIB_Blocs
+       identifier : 0x2429aceb02f7bc0d
+       internal_properties : CAAAAAgAAAAVasYavx2Drza5DtJhwGAW1E+yvrLPE+S9HGjaGYFXQVka3sVbuv3/ov6109ZlPSRcbkmFyCgzNJULUV+2lAkQmJww7mzy9a/vC2onfeTK1yoNku1difoUwG6Vb0vv7ItFWpsZpMbMJDcox1Odo918Iul7G7b029tzlsa7nI18G83zaJLjXyNjleKc80uO8NtTlzRal3H2VQWwVsOw8Ff4lStfmhmnEwk6hyfIfRBZFceuxur4MEO/FIx198KR+FyMuUE+uHoym07YAMg4gsKtillanHOl72TrvePPF35iVQRqnpwfIzXPp1hhNcSF9De4UdqPihA7VVDwJZN/7G8kFIC9v7bmrkyohJ4Zu6/CJ76w50THrE1EIZ2GYj9IbTRvKPJCXtOOmeBn/zPAbFtXUzYGnW9LO9RBXDTCUivj2uzPc2whHOfTgzrDmb6/EBc=
+       properties :
+        x : 120
+        y : 110
+        width : 34
+        height : 20
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+    type : 32
+    code_elements :
+     type_code : 70
+     p_codes :
+      -
+        code : |1-
+         PROCEDURE MaFenêtre()
+         
+         // rafraichissement auto toutes les 3 secondes
+         //TimerSys(()=>{ DemandeMiseAJourUI() },3s)
+      -
+        code : |1+
+         LIB_NB_BLOC = gclNoeud.getblockcount()
+        type : 234
+      -
+        code : |1-
+         
+        type : 17
+ menu :
+  name : _Menu
+  identifier : 0x2429ab87023c4b1b
+  internal_properties : CAAAAAgAAACNN/aJULRILqSqdPc/nbg/wIz886TchdeN+THlc+/6YoWg3cwXvl7OHZRr+rWpuAow9bfsBaNK0AYG9f5bkmVuXQH94A3Ke2UqltxsUZoHgcKER6Ga9SO1L6pIsnUGyYCOlss6py5mRLd2F72+sNpMXD02duqs8w4QVmTwRTJdUgd4RaqH5dA48SjgkkPT9vyb9aeEZVq9+H3YQNEpVrkRKUeXElmSewtSWYUB/KpjTrIQ3YABNqaslssTubHml3O8WNYw2JBxuaKbLNaW9uR/xGUpHCuhBg==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar : {}
+ actionbar : {}
+ code_elements :
+  type_code : 71
+  p_codes : []
+  procedures :
+   -
+     name : onNouveuBlockValide
+     procedure_id : 1454202658585304436
+     type_code : 14
+     code : |1+
+      procédure onNouveuBlockValide()
+      DemandeMiseAJourUI()
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FI_SansNom1
+resources :
+ string_res :
+  identifier : 0x1429ab8700084b1b
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=

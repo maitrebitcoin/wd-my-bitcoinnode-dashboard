@@ -1,0 +1,117 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : Widget_HeureBlochain
+ major_version : 28
+ minor_version : 0
+ type : 8
+ description : ""
+ subtype : 0
+window :
+ name : Widget_HeureBlochain
+ identifier : 0x242bb7d312194bed
+ internal_properties : CAAAAAgAAADo4dH+GqbzwoUibDDKxHcQpwIQ1G/LzaRKilykkDu1VP94tcd7o/Suqii1ODSbm4Tw7SZGxj6nZdWDUdnN19CrRucI7a9U7/5/p6BHAzQiIkOi2D7BL6gSpVqL5fS2KCgFNi1N2zlqLEavlFxY32QWM/gWqn0Sw6/+qFUpFJ7YMuwTx/FxoBQhyzk4vzcfERomzDTm9ostp+CqnRUdE+faGOBJ1ITb52dPdwkQ+wxpCC/K1OIZlKaP4PI2msSu+/VCqoegtsJt31pyh5q4zZi6fbcLwOgeNOA1LdSmwQx97vqxWnya9G38xd4M6gLCJRZWYIJyXfj+0r/b9vd+hsx6hZCVViUBiZkxoRwRbWmBxxO5MtM7rw9wZjlnsCfko/0nadMq7O01FCL8HNn+W0FUAk9rN3Y/rA1kKZRv/j1b8m7sUaijRhL8gXN6yPP6RvXN2PKQ34Zz1hNZ8MW/o2GF/UgRMYPveNPGp3v4QFCoRy3PK+CIp2y5hjnAL/zEtHMbW7+9teppjD8ZBfyrNhyvJDhDoEMd+GO4zREfIxaYARwldU5zrt4he59yUui1KUGER0DcXZ+iR60AmmRy5JwdRvaz3q19I5SHdHZYZeiR/1gipm5X+sa0ac2i//v2IPi1+QaIoQSk5BnyL1B062zUsdgFNT2CbkKnTSQ4ebk9r7hNylawguIL5IGknlvX8lc7qYhCspFeUbtUiuXq1rG1IBtkK5JXZAcJEWQIJXZptLKS+yIpEtQ/XTyWvfHlHw==
+ properties :
+  width : 160
+  height : 160
+ controls :
+  -
+    name : Widget_HeureBlochain
+    identifier : 0x242bb7d3121a4bed
+    internal_properties : CAAAAAgAAAA/YLuTg2Va7zUKHxD9WaOQIT0SXAGiZz+TqMOT9birlLhoW1liHzu3ujCwSUnsJjOzmICE7YUMcSvoRl1rGc4F90Fp5hW+ivesCufs7SNmMWUY0nAiEhDH+fPM/tMHyOLkLcPDOyLMz9Oa6f97blihxaT+2M2yK/flFZWuaIeVXThIN+puYos49J18ZbYF1icGZTiZH/nIS8Mcc9v0OXrd88y6v6xpJPmUXyHN7Af4mGixa9so1fbYMy5zLZywwpIRXQ8J8sdv0yNUgTUaKO/hsWcRMVJqwMJtQJOJ+ppuYSmLhYSyoMzFpFwokFxV1mFO24zGmKtZIIR5/OR7iMYycZx+PwGYmCw2U8bhYHYU8fWoRDkdsuR2I84yTu4MezLyn/XLViVpPoR8a47LSgu1nW6kfFuSv6+Kp932Lf2kzsPa3O3xE7IZBlJ/l0bDN6noCse1mVAY5ndDpnh0OEY=
+    properties :
+     width : 160
+     height : 160
+    controls :
+     -
+       name : LIB_HEURE
+       identifier : 0x242bb7d3121b4bed
+       internal_properties : CAAAAAgAAACcAd5LVtFwlMESJ+u+nyQcB3e5ynix2C8xmKj+6U/s9WcVRZrDdWtHzl082KHKnEOhURUBu8z8RItjFBY4a5gMQMWh2fwng/irrvaixx3NOZuIAyuQ5DSV4kdo3jyP/H2gYSOESGHKlB3eGij7QOXpyazh3qIzlG390+NRNkQem60NKZHdIprf1157uCYmouXmCvzUeXoVzZWzfokrATPdNOKEzcvgdVRB6OhSXVpbakFfXzNI6zP5PIk1OakT0qemvfFojoJ/lgDxeThoObv2rR+NO5HFkMnFo3wmHh/JZWgJtaWYW65eZpjbBXdiWToj4ze03j9Ugj0RtjQ7CkH50Hf+BTH+Cbp0vCmAqipQpMMuLwkuCk7L6v1u9Ul0FfGVQYjZlFwRQUW7a+t8srf8RXRc4JMbk2+ejYVhV7cHw52tsuRwiOMA5EG7uCazYt7Q89Qz6kpRtE8O2EYTm/DAP+zy0jHBTsxI3dvasR4P58Q4rxSYSQMtmzDrnJB7Z/uQgI4FS5L1KXyer4fIVEagm8ciW2L9wg9e9g==
+       properties :
+        x : 5
+        y : 62
+        width : 149
+        height : 45
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : TITRE_
+       identifier : 0x242bb7d3121c4bed
+       internal_properties : CAAAAAgAAACodiaIJEjr8v32HIa9McULPMaRxcCZW6AMQhqnFGCcWGtXwErUKrQZ9Aghb9oq3N6nDUTa6EDF1uDkStabJE0ODGB+UYiaF758r0mFhJ/Z+twzlC9Vs5nvPBV31qA/FgruuttE3jUDZ9lQrROIXVKQsRbX1zcxX2bBkqZNHVeaMLlE9Y/xZ9P0wUgWtCmhhtMGa66CxWM4UZHR/i4frP09HrnXR7ImQLwQTuUMnKsEhyFap1YE7v91luhXrnnD7HNNnZTjcXu50+uEPjyOdYslVBHTvLt9QGKRXvlXyhyB1ubkRdaxTkcK0kqPwlv/yMLIyy3k3LnRHbbTfNUMMYjCYCJhRzx0b7R+JnZyM9XRuI4aWrcaIcIpA98m77algN/nu6WFNMqK487tk/yRJMY99VNQdQgPOIcC2gT/CAm5ghPZsqQpXHJ8BrjPNumXjhGAHbtGnvpcSD/I5m0woUeqWXSMKXthdZjEAeu1KGpo4TeM3EwFsPhUAE/6lGvlhmuOn6M=
+       properties :
+        x : 9
+        y : 12
+        width : 145
+        height : 30
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : LIB_HASH
+       identifier : 0x242bbc9502cae075
+       internal_properties : CAAAAAgAAAB5+gZxMCMMrQPXfqqAX23s095aJqCuHrNGUrCVtHm8cP5yrVA2fVDRTW+pM7KPKbx4DAMSeOqHuZEW6xIJERqe81NRSalNFOAlfSf18a18PsG4ukLKEKvper8h1r6h22eQzF+6DLYJj5XQYg37tNArtaLli+WEbvGSKbTDAlXeI4Gm125LjFxkvfS3viD3yuVGlJa1RVFb0qA7gEi5zbRjuIa/vtMx1IxjAJdcsvw7li9hnSlkv8RM+r1QX1k/pp7y4aAbFW45yay3Z2I7U3zOsGJLZv8BDczkkzQ+KxfWLjfwwQ5p0P1R+rl7T8nPiY8w4g7866+xgGM/NUlaOEpcZz4D0FCldg5H1IFiiB9C/nfW5fL7kuMp0olAKq/7VN0dJFhXhTCJaY8N2pbJhqkuIYhrrQxntnBwpRWPuBc7la3M7mZY0jIA/xBwCcWVuA+k2OSiB2qyEmIxuXG6AQxFfhZY2QmO8wXaH1OHnPFHCypsdAvZ/sau2enpl1Ra2M9W9b377aqRCjKhI8HKrQ==
+       properties :
+        x : 7
+        y : 42
+        width : 145
+        height : 20
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+    type : 32
+    code_elements :
+     type_code : 70
+     p_codes :
+      -
+        code : |1+
+         PROCEDURE MaFenêtre()
+         
+         // rafraichissement auto toutes les 1 secondes
+         TimerSys(()=>{ DemandeMiseAJourUI() },1s)
+      -
+        code : |1-
+         // has du dernier block
+         hash_dernier_bloc est BlockHash = gclNoeud.getbestblockhash()
+         bloc_info est json = gclNoeud.getblockheader_json(hash_dernier_bloc)
+         
+         SI bloc_info.time=null alors 
+         	 LIB_HEURE = ""
+         	 LIB_HASH  = ""
+         	 retour
+         FIN
+         date_heure_bloc est une dateheure = EpochVersDateHeure(bloc_info.time)
+         now est un dateheure = maintenant() 
+         duree est une durée = now - date_heure_bloc
+         
+         //LIB_HEURE = date_heure_bloc.versChaîne("HH:MM")
+         
+         LIB_HEURE = DuréeVersChaîne( duree ,"HH:MM:SS")
+         hash_en_chaine est chaine = gauche(hash_dernier_bloc.valeur, 4) + "..." + droite(hash_dernier_bloc.valeur, 12)
+         LIB_HASH  = hash_en_chaine
+        type : 234
+ menu :
+  name : _Menu
+  identifier : 0x2429ab87023c4b1b
+  internal_properties : CAAAAAgAAACNN/aJULRILqSqdPc/nbg/wIz886TchdeN+THlc+/6YoWg3cwXvl7OHZRr+rWpuAow9bfsBaNK0AYG9f5bkmVuXQH94A3Ke2UqltxsUZoHgcKER6Ga9SO1L6pIsnUGyYCOlss6py5mRLd2F72+sNpMXD02duqs8w4QVmTwRTJdUgd4RaqH5dA48SjgkkPT9vyb9aeEZVq9+H3YQNEpVrkRKUeXElmSewtSWYUB/KpjTrIQ3YABNqaslssTubHml3O8WNYw2JBxuaKbLNaW9uR/xGUpHCuhBg==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar : {}
+ actionbar : {}
+ code_elements :
+  type_code : 71
+  p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FI_SansNom1
+resources :
+ string_res :
+  identifier : 0x1429b0b600298bdc
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=

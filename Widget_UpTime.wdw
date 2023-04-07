@@ -1,0 +1,89 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : Widget_UpTime
+ major_version : 28
+ minor_version : 0
+ type : 8
+ description : ""
+ subtype : 0
+window :
+ name : Widget_UpTime
+ identifier : 0x2429b0b605518bbd
+ internal_properties : CAAAAAgAAAA9p2WucjNRDX+6S7QcGR4WOXy4ycGUOAijs8fW1bH5u7pVEh9GMAzUNZezTdDucgDhLFxjoSq16FYlt4AOIJQ9r36c+ABJ7aavO2NnmCxUgvPi/uza1FzE8jAZLVNmWxgygoNFcxv20DZ3/5Enupb3CbHXsCuBx2+zpP3hMpeZiMgf32QnzmMwq16OUHoW+p9X0io2KAiukc3C9dMGmxGeEhnTzLpeD6MLAMZB35wbLIl4NF6AVNvrKPvCGlppzDduLz1dLkcWWXhLXDG35s8I4/1M7v7GV2Nxxf/4tGduzUbM2ogAYVL+G/gDvRTP+DtH2uFUXrZp88oRkbBNs0m+G7YgIDm7rEMnv7Uz2ih5wXCrpI5O178/n8Zn5M0YHuTgQiB4UKKq69l30+8eIi6lkTgIrQL4bQwbyjHdcjhC9+GNjvZLpU11KphTGmNh1eDixfPMUWFwjbZsryEJKsAqfGke97cim/Ld5HQMQvUBIurCKnagKiuUMUQXi24xDy5g/v6B691um/oSCsx5O8MoE9E4BjPM5Up/UqqLHasd4Im26lSPj71cmq5VUq6oyOhx9KmwX7C1OA6VO0BYNyPqAV12XjO8oM0gD13MA/v0IokNTXItp1dhr/VGgEbMyBwlHSZjUmgYfF3EfX99f/QAoRojRMK0rAJdx0q3NgdX3/zXuE1R9yBFhi91IjlCPabUONC3hl6FNlMc15pbgnH+tQ5mXX/Z3UCtYNb5DnC12bkZ4cNDSZ4=
+ properties :
+  width : 160
+  height : 160
+ controls :
+  -
+    name : Widget_UpTime
+    identifier : 0x2429b0b605528bbd
+    internal_properties : CAAAAAgAAAA/YLuTg2Va7zUKHxD9WaOQIT0SXAGiZz+TqMOT9birlLhoW1liHzu3ujCwSUnsJjOzmICE7YUMcSvoRl1rGc4F90Fp5hW+ivesCufs7SNmMWUY0nAiEhDH+fPM/tMHyOLkLcPDOyLMz9Oa6f97blihxaT+2M2yK/flFZWuaIeVXThIN+puYos49J18ZbYF1icGZTiZH/nIS8Mcc9v0OXrd88y6v6xpJPmUXyHN7Af4mGixa9so1fbYMy5zLZywwpIRXQ8J8sdv0yNUgTUaKO/hsWcRMVJqwMJtQJOJ+ppuYSmLhYSyoMzFpFwokFxV1mFO24zGmKtZIIR5/OR7iMYycZx+PwGYmCw2U8bhYHYU8fWoRDkdsuR2I84yTu4MezLyn/XLViVpPoR8a47LSgu1nW6kfFuSv6+Kp932Lf2kzsPa3O3xE7IZBlJ/l0bDN6noCse1mVAY5ndDpnh0OEY=
+    properties :
+     width : 160
+     height : 160
+    controls :
+     -
+       name : LIB_UPTIME
+       identifier : 0x2429b0b605538bbd
+       internal_properties : CAAAAAgAAACcAd5LVtFwlMESJ+u+nyQcB3e5ynix2C8xmKj+6U/s9WcVRZrDdWtHzl082KHKnEOhURUBu8z8RItjFBY4a5gMQMWh2fwng/irrvaixx3NOZuIAyuQ5DSV4kdo3jyP/H2gYSOESGHKlB3eGij7QOXpyazh3qIzlG390+NRNkQem60NKZHdIprf1157uCYmouXmCvzUeXoVzZWzfokrATPdNOKEzcvgdVRB6OhSXVpbakFfXzNI6zP5PIk1OakT0qemvfFojoJ/lgDxeThoObv2rR+NO5HFkMnFo3wmHh/JZWgJtaWYW65eZpjbBXdiWToj4ze03j9Ugj0RtjQ7CkH50Hf+BTH+Cbp0vCmAqipQpMMuLwkuCk7L6v1u9Ul0FfGVQYjZlFwRQUW7a+t8srf8RXRc4JMbk2+ejYVhV7cHw52tsuRwiOMA5EG7uCazYt7Q89Qz6kpRtE8O2EYTm/DAP+zy0jHBTsxI3dvasR4P58Q4rxSYSQMtmzDrnJB7Z/uQgI4FS5L1KXyer4fIVEagm8ciW2L9wg9e9g==
+       properties :
+        x : 5
+        y : 62
+        width : 149
+        height : 45
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : LIB_Lancé_depuis
+       identifier : 0x2429b0b605548bbd
+       internal_properties : CAAAAAgAAACzSSGlUdmJaEUleU61MM0ZVcipdUSvSsD1sC0oZfhTTWpOcukka5zce5Sa31ZE050Sn3S3aBnU3wWknkPWPKLYOuDvj68oWT80l+kG4WiHhNLGgLMdJVSt6QNXWXLe5dlAUSKkC7S6fkb4JetOBDBNgCqUkfccIkztS+XmYDF5Yl6jKFeChYri4m/NRYsdxiwx1PbJ3VdUY6U5x2A1MrWwueQutcils1zHaAV/a+MBRBKyjuN62frUqioPKA3rWXkzB9oLWUnLhVW85JYoQbdXDkvJbAsxBNZNGCNVyDD1wtIEJUhDwmuebnab+FHH8OTCzX/SYg0tqd4LDrsqcTjwHiiZmd6872QapJAm79nWZr0VVYVHYruGXsFQn+dn7aUOAR9GiStv/ZzFYNcmQHAzHauLatx3cFlMwKoPD+7v1nzdIx7ANS/6bpr6Qw6juFN/+D0xmpTMMPlxGNgBMG+4D7yw
+       properties :
+        x : 9
+        y : 12
+        width : 145
+        height : 53
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+    type : 32
+    code_elements :
+     type_code : 70
+     p_codes :
+      -
+        code : |1+
+         PROCEDURE MaFenêtre()
+      -
+        code : |1+
+         d est une durée = gclNoeud.uptime()
+         SI d=0 alors 
+         	 LIB_UPTIME= ""
+         	 retour
+         FIN
+         LIB_UPTIME = DuréeVersChaîne(d,"J jour(s)")
+        type : 234
+ menu :
+  name : _Menu
+  identifier : 0x2429ab87023c4b1b
+  internal_properties : CAAAAAgAAACNN/aJULRILqSqdPc/nbg/wIz886TchdeN+THlc+/6YoWg3cwXvl7OHZRr+rWpuAow9bfsBaNK0AYG9f5bkmVuXQH94A3Ke2UqltxsUZoHgcKER6Ga9SO1L6pIsnUGyYCOlss6py5mRLd2F72+sNpMXD02duqs8w4QVmTwRTJdUgd4RaqH5dA48SjgkkPT9vyb9aeEZVq9+H3YQNEpVrkRKUeXElmSewtSWYUB/KpjTrIQ3YABNqaslssTubHml3O8WNYw2JBxuaKbLNaW9uR/xGUpHCuhBg==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar : {}
+ actionbar : {}
+ code_elements :
+  type_code : 71
+  p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FI_SansNom1
+resources :
+ string_res :
+  identifier : 0x1429b0b600298bdc
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
