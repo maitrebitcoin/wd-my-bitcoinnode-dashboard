@@ -10,7 +10,7 @@ info :
 window :
  name : Widget_Connectivité
  identifier : 0x2429adb203eac575
- internal_properties : CAAAAAgAAAC+Y8UGh047GUPntf+WpJ5/VjyJ7F0Oq50PB6AfXw4SlCYylZ3OEjvzrwsmneg+FyotvIjzZfUCCP0CxSppRsLcvysijmcUJ3bqexYJ0nj0aiE7G+OW9tgTjS0Z77UX1iuCgIN78pUKeT8maBTSbVbA2oxkoMBH8HgEZCEj9T7X24yplqQhG9Lsrtp4Mxt+/Y9/sdg+bbkigA/+s7apXFdzjpduQj3eqAfax5M6aVBrXBtZRNVINgmBtcYVACmDQs4yHDE8G9BptBSY1LRd5sZTbGnLiPG7e2Pd2pWe4OLI9hf9U5OGqIPYWlBquzLHsEIt4/rlKH73ADui0x7a9ItHBTyDlaQIpd0qsr0oZfnWoghQbKS94h1rjM2Zo4tbBwaITmEy3jf4echJJ9hcI5mZd6wivAiNtieV5QirgNOMw945R1IBw1Xpe+7xwICeRcJmxByXT2vw9aQ7CQneYRbAR9YvWVg9fYohkUc8KN/zyvJW2gD9AOoftPg7l7vYIQx+vrKmvTwvgH2cT3HrMak6jF+ATtQpw3rDJbLXgzOjzJrR/MZeppZJbyotYS6NPBHUJ9/xaLPJvNGIa1mhllL3IFzX558XgmUH287bq6z45bV+ZTYAJlSFI3CpkDUfjgNkMOTtLvfFra9yT74qKCNiOYBzQSrK9CRmk52ZruHugYHV/Mbj+ga1sv5eKsKr0botv7bPM5r6RsIy6XA0v4KJiT9OJD7i0+Bw9aAJL4JOtoKrd5LYgh6PEosdHHQzRV/LdwEfFw==
+ internal_properties : CAAAAAgAAADqKi5yuerHQyoc0vPmZtPIklGXVx+pNVTDiBAhGomTs+vEjKTIelPjp8TKx9vlX+YOcgWB9UZXoTahCy+HkL3zCJjtm/+GDUir4rD/D+Rb1MROv369H/eUltagxG7uYDdcb1kggG+0dTah+tHw2JP7BWwTRLR6GV2mjNLwqIFZZdS61gcfx8NqT+aj3IGKUbX4yFEdeucLnMV71gtwmnL8c3Nwe6HJ2IARtoAwd7aX80mRAxozWAHG+aAWv0VsRDR/oi7Z+ewTXA/1EYDT6wY3i9/+XhhKOEOVQKmXALbDn4V5n6MGwfOnmc4fWMk1vxrcdRvyT/48J70Idqwzs9kK62nLmsTmPGYLrMhhdnvyQ0j6UjM+7+0ctWS5LOZEHiPvqEEnmFVYKN4jyZYbndzgb/UtioEwJwx4omU2ynn5eo/bDSR1fsY4z2ekgNg0+xYoXFzJuj6LXYr4W7iHESDnnAuIhtK3/tRiRRFCweFl5zLzeGc4qUXia6JRzFPtP0vKMV6r+gcNRp4Wx+7Pc8Ag34MTsKE5Re9ziSdEOAZGBFKRZUr58RLYae8+s7q/zzPLtLL91i7/yRWT3QofzHwpy4qlCIZVKhh0rfh2yZOfBc6ylccm072XLjTD8+3Wn8A9e0jD476Q2/YK1OugPe9U6tntOYjCz/8xXiGj4tIoWBXOu8hR2hamKBseX4ayEvQGjkWdc68pZzCsVqkgQ0Z9gHleIxT7PXJpxyudHF5VtqvL21IX2/OugIZdKmNLUClREIhCieHEqEI=
  properties :
   width : 160
   height : 160
@@ -24,22 +24,9 @@ window :
      height : 160
     controls :
      -
-       name : IMG_SansNom1
-       identifier : 0x2429adca03fa1fba
-       internal_properties : CAAAAAgAAAB9PycvqrZwWrG4N1z0zo3RZmJho2EFmOf+WTocbHD0jNCTSrmTJHeZvt4QctuEq2qIlnIEFYwNER83ddlK+XReC6hsAGIVlFnAiQHE5LtSlbqGSe02k37FK+1xwcNpM90acFrzdqt6o73a13p3hH10/VY1Vjz4FSt6wrPaBwSebMt3LA/2O4u+jqieqxtgGPpg164GwDQl8EPE9C6lARO8duP5R2jhx2pDBcLprg4+bh0t7UmTPvisAC44Epf3QlN+W394LcSvjsd+NYlIdcW0sdLccx5z7gl2IM3PJLQo3vKppxTWwG88qOtbrQaXNgPVYgaSoaXya5prpFfbFRy6Z2kYWZX+VoI0zkknA82FBDt1XwRQxedeA/JfhCUtZul9d/wq+VLHtWPEZfYMQtEGPiI0WnErt5AUpCjOomxe+ZsTeZBlWFX+Uy6OhiokupO6Emx3zJ+sMlmdCgUgY5WkL6Jsam3uO3spD1Q7JkoC6hL4r7j+kYdXxu7ZgPtCuKYqlsJsi+puINLUFZ8NA5/cZx1sHucwyDGv1HYiqyLU2n9e9CqgKzQ2jDCJYgp/vxqdcr8ntZBIijfnry2NalMLMqAJZOxq45sikZTCUZNpJC7LMxcd/srBhMHne88lgGwrXKMJvwfpPnhtD8wAKSOEnfNFVaee75vQ1HoqCYPAjRadDe37tytVydYT31o4erIOgbGRVEvOlsT3KPAWGolMc7IdxCJdnAgjgBOxwL4znAqWWCjvrQnlKGbQ9rrc+s4DumG0rGifWXRO1N4jH+xeXkp4h+hEQt8+R/k0IdUR2btN27V0qDysASmj0zdxoHui39mD4BVCovqIdpKJg/FppoPD5YsYWcKZ7v9dV0i+PPWaSqiu7O8+b/YQ3TY5K7MncykeRs8HVpatQP+tUBAmdAZ2XFeOBAiM18rJ9L/y51862EEidds0KwWEwM6p
-       properties :
-        x : 105
-        y : 103
-        width : 48
-        height : 48
-       type : 8
-       code_elements :
-        type_code : 8
-        p_codes : []
-     -
        name : LIB_Connecté_sur_le_port
        identifier : 0x2429ae2e040ba929
-       internal_properties : CAAAAAgAAAD3/8mbdzN53XQCBdxZGefG6/brSmmFo1tN5QAGlD/YVxcgfhF9ef56cZQDt/U0mQt5/YukZO3xHEjhOr62J5UWb15ObIntGehG6GOhXbAvS3T+RSrD76ECTdo4/o5hyRe3zFvmEgihxtcSz1MtvTCrgQyTNF4M+2PbFyvu0V7e64qK5OK6OihdUNc/XKXgTLdendji+8aJR13zwC26sUQcQN4OHXn5L9mPQDSZPt3d16Pv+a1niVxOOTRdzVoCTza0LYdjCSnSTA8YODkBnHLTPtNZ6tm/1X6cm/UwS+JcIfQulay7Xobw9uxF+T6y8RcP92vVUF5M/JAr+2cfH/lcPfkoip1839RZxtl6CEy8DS6GKvGblWDaO3440wpxH0Rn4Q5slQpGi/5gmhwc/vQbLnHE7kH7EsRGgR+1aBrnBg76isTdwWEOLfJIIw9aiGGOEcDHXlvRFxDA0Rv/faz2mQB6opq1crl0PuSQLGSYWw==
+       internal_properties : CAAAAAgAAAANnyXkJZabxx/o9i8iWGAV2ZDca+VVmZbfGMfBqlwCJZrV0RtBdd1iUygw9dCE5apkr1f69gtwEiSyoex62yv2kS3zo4dKJPosKTNl8T8w+9LKGndKDRH/AQkIXsbr3sl9s6Yg0GW3KKoYA10Rbpt55WtS3fj25PfcI+iC+rAMw2wyhkRFClIh1ypbXTQNSUM8Cxt99Ewm9jGRPc442oi+5v5aocBvHYJdB2oIcWg2FOYv022cwi1X3GA4HcmBzU4ZX+rccIWS7h76zZFYF6jNMR/yLf4diZBzVVJOOAe45wV6zjcgPvhc81SKSZeHhfWwV1Yeyzh+ije5SBV+fhuuxLPHj8z2d1LqVnZS1z9AvXmIi9R4P95gAMazfe0gI5a+iQ0hGDLU3YHKN1zjpZCtXWNvX7hJiPIjSyoP49G9bsOEpYWA/3+yAx1DbeFf8XC2KQ4b6VWCCrmiVyqzkwnLvnD3m7XnWsnGlTS/ffhy
        properties :
         x : 8
         y : 10
@@ -52,7 +39,7 @@ window :
      -
        name : LIB_NUM_PORT
        identifier : 0x2429ae44040efd06
-       internal_properties : CAAAAAgAAADN4aR2ulB67Chz0HTAsDEG8nxLOYdprhFVSNVn1gdL1RursYYvamG4jVPorxbd5YkDODeBSuxgBtewh5n5IU0aIA2SdQHADgtD/05mf6f1sW7OfZxTB1UI7RdCEADcbGn12E6XuzAgdvp/1jJdaPpK82BwAEVKLkUbjHHyRAoxtrCzFav6woJbfc2ee+Po1kneIOQrmPu9w9vSptqI75gFubVCDhIXd07eT6ZWH7Z0zzK10jJIGFS31ajQhlS7ptitaWMKjwVKRfJd5iMSUczd75OKbllaiL79y16grDkyIdxdoZrIRatVAct94yax2BN8O4SGON1/BdRHr36qEDOtZKs1iBTIF0qZzp7XhwEX6EWxuf6ZWwJZR+cGZOQLEWUPiUMUiG2iSMpii9YD0Jb90AJItSdgfnlv+cDxoOCpFxzN6xlbL47uKSOg0BYH6094QOjF9VAF3t6IJn1i2Pch9Gh5ZVtYk6Taf+6zzgUZ7W0A89RgeYPN3iYy9ZC+N228VLt3B8lNLLl/92SzUviHBEX2IZVmpXVBM+LzLj99EgdASI5uQumPZQ==
+       internal_properties : CAAAAAgAAACLcmpeOznje7P4WrXPUiwE2pndByUV9Ik8O9uUIyzib/1RYubvZR0Pp35ji/m9pTQRSMSNEVTWulJm2kRWIKsvwJHjYTWK4vzPvvRipPxG+CPacE4PqI1OeVoD6G3zvV0/wohwxBr3oUVwBJysWfS8epYOcyNfavvLqgM88vFfPGnQOZXcSby3Llf5NTonW8nb8Df8sLOPGa945MGSN18posCX/c3kc/tN8npotZB7Hd3nd6OEYoqleIwh13rzXEtkikb/abzqpr/h3diNhrNXlQOl3wruyzFrnZuuYagXkewBTvzlJdx+b23GC6XGo7/Aif2IWRGMOvBf7vp51VoVimusXPNOgN/RlI3naqJKnju7xnTUTR8iP9sVJg8MCA1tQdbKp3EPYRjWNj7U0+cH8iT7SV6UyYBPMR2RXz3YJ6ZRzlva/b/vOTfP1v3sZhMczjHhLrI8jVo4LYXXr0yLfpb6ZTT0JhOuP2VHretALzGHPyaUVSWtY9kWmzYA5euYsJzJMRGuuLNR0S+VKdBQrvdvZkzsWDQjzuQR6hKJLe/eVWTMbew6c98=
        properties :
         x : 8
         y : 60
@@ -65,7 +52,7 @@ window :
      -
        name : LIB_ERREUR
        identifier : 0x2429aea004296560
-       internal_properties : CAAAAAgAAABnIAdOlTb3iFRLaDa4CTbg6tZzV4/mHjPGXPCbAC6ql/oS0z7EKMlaZXXIjXiXeqfqnLToSLn7T7rH+StfEnGMXFtkYkASsYGrQ+zTOclMN2K7S0BDnRmA9I2l0Shf3xz8QRcj5rj6Tqgg4tIA4j4xOTVDA10lReERPF/GlrcvB3i1oEXXyiYJiZT/hfjF9YJl490gRq8lMpJRMccPA9vHpwwdHqNqCnYYjFokf0eqsjxVjckt2IbcPaWZtZWSheUw7MH/ulGXI+wnU+p3b1K99mSmVOC7Rtom41T394J0bGJjjOrezhNIR1nGbP6b64gYtk4a6xefyeVo43MP63Mu3q3O/yfaVUx3tUvKRMcAkpo9C3GhOyzBGuIBW3PFpStJPBxnIUbSmYH+pk5UhDtvQfYfAS+xem+/JxWnJRtyKoli7R7y8DFfovgc7iwdY13TrMddK4XzgNQU2AVJuQlIXEXuXhOpuokQw3CDr3yEVa6uMHiII0dw9qGTj+SEOJts9A==
+       internal_properties : CAAAAAgAAADznPPaAVLTXHgf7KoMjbqUnsr3m2Pa8g9SmAz3vKrCiS7yz954vM9PX0/YTR5FNssevuzo6mOhfQ5hWUM1oF0QeBUkkq4gU9dvNeCXa4ukd0oR84hxo0sGgH+pcS7d39Tcv9+rjDbMcOgu2kqeuCL1FU8P59M7hy81lkPm3A2vP8wfDIkZhMxzXW4v7QZr8eaVWW2o0GljJIZDqTuBleuHP4qZogGoZMwQsj7EpW0iSlRzWS3DZviO9SMtMa8UAREU11Ley7hgcpWa8NWUMhvk50cnQ+G6B927SjXWQJlZZ29iMcUDoTAXMFS7rzsOdBeNPYvtAMIU5MpnpHKoIkwFw5zj2mxV6sucRNRBbf7V/Vu47CDiul3AHxkqMgQkRlpGIzlKRqEH+C5Vd0VduwyuDtU0/CRM3xKQSori6nYfjdYRImmXE67yv899TS0c2CAAw+yo2Njg2ynxZBdz23Muvhvmcv/FDq1Up1Tn+xBoSRIqvOwEr8v0SnXnc4AYrA/gYA==
        properties :
         x : 8
         y : 9
@@ -78,23 +65,10 @@ window :
      -
        name : IMG_ERREUR
        identifier : 0x2429aeb70432bfc4
-       internal_properties : CAAAAAgAAAALbDX2T6e0ji3CfsX5qkcISQ8H47qCr1VfVDOq3YE2UseG/R6FBEM3+Di5A+nSZKo09DteyDPEsz4Mo4RGmLAPclsrnt/EncYblhO3xD4laO1o6xxr5+GCXLYviWJ+y0h/nhe1CaaR3KLTMsOY+PbnrRMIE4j/ZVQXoCQX7QmhmXlzLEwX4H0/A5khZw8MBWMex9Pq4Uu8u0Oz37/fmDcqlVwuvxvjX3twwEwA88rKyEFR7bx3vSPpwtMSmdoT4SOA/X0Zg3pUWqn1K/3vXb+KoT59VTY1r5anmeWKchyRJiLHr3dmNtmMQdxdjeRSBGAGmIKKdwIM7yWnKDKzDFUIQ3+zKZafG8WVwZp6Mxgh16qF+6Kwb+D8CpYNqgbeQ0pM4vHUe53ghRUeQfjlqwsM9ppRtyxk7V6GXPMj2SpHlP0tdQNd4Ci7YDEqV203NaY1cW/77hEXJghho06kstLbI+pcERTPDL3lMv7oMvW97WwZ3TRsrMPMmzxS5y+xokmHZEoPajBUR3zWAeS+49GUbOjraEHKlpWaICTb/2IHB4fAJJHW3LmRza4s8auLuG2MCrhoTJlUxBlFk1mmzSZiCookekH6JL0Plkrg8O0oePPXaErkB8whQfrk89g2ITUrF9TlJazyOjG4lI8EuubSDnT4/jhps3H9bh5VPLshJp6vdZCsCbVd11MzT2rV/2Sx3Qp+WWCe0VCrIW61FI1dndGfaD8p7PK/nTQ5SGoQOT4axqZKnHEihLIqOYyfOiezatd5M/oRG7OrjkWwtgxeGpjfEWqBqpvjxqd55bySGE0kFfl5WYFFNoOPG46X0ez0/MjCsLWrSlHh9XQuSntrscXrJofbYTMI36skHjnKvcrUfrG7xTUhQBkW46EXXH/5jbWGJcdOOOdAPtpceWrj+zaojzMHup9LN0edMvzebI2DZgGD4AaqkQIK
+       internal_properties : CAAAAAgAAABs3ojaLOUyddc/pYCzBoFHtEwnpuqu3yS8NN4tiyzoBSaTzkzGBHtUG2qnnMMGUOyEmjzjOD4wq44MefdutEJp72pziKeFNM5AboB9X7WDMBt7WzK4cC1jieFs1Fo4Bc1/fV2Q1y0oKLoeJfkXxjpIFuWSAcNVo/Pz3sYlCeqltLn5fXtcRIwKybz8n9a0Ua0oyYKFyJOncRh5lOHnI2nIBd+ecf+9eU0pIC47EoabmsQzR7ihpyHknSgDC6hitNWWa6hqDH9ow8w3WVeBcZ7OUSeufA1naUW2J1E+vIMWIlui58zhVyrylXQuQ+V5VzImPDYiZXrnpH5NHs35hyVHc0eEb5Q5GGY25aE5SmUMS0H9cmmyX6x76EdDuTizcx4MVd+QhBU/FqLnNqurm7N3x8MTnfKzn6TiL6VTYjjih1VWL4iRJFNYw4mfVqukm7iSydr+Og2FneDmiksr4wZCs566ZqqaeU2ebv2HhcXTHDwLttfzw3CmWlJ79NiHmu4HGCe64TXr7YNIBrEfxQEnitRI68ghWy0bYGX2LgKJEF00LyCJY3b5uNinUjiPKrhE2hEjg8ovPLzRrqBR0VDtmFjtB6qpoYnknGNT18lOPwF5f0sRriELUrqRBh/+axAhV2G0SHkpjO4w/X6PUtQpxACHo7HGYoXeiunqJeP3U6YZoNlZoKrnYM0McqE/jznnsz+bOvHh6buDtsfqjIrzLARGEaHrVTnTAS/K+V2deFEaEqMojPrBThZghexaxwTPPeVBqG/xpmyblyq5TkrLcN4EvPk+we2Qolm06hOzRB+sXoTB0jiR2kysyeaL0Dx74fYvcfSYukEBAn98/wzlBE71y8R+kh3pZxDToVg3knBSqZeyUSAExKzpwfeu1Mvw/YGgK9+aqTsnNMS+xYgSTSAx9o7g978JeWVTdgZsygfaIddfiWCOpA==
        properties :
         x : 105
         y : 106
-        width : 48
-        height : 48
-       type : 8
-       code_elements :
-        type_code : 8
-        p_codes : []
-     -
-       name : IMG_SansNom2
-       identifier : 0x2429afe504cd59ee
-       internal_properties : CAAAAAgAAAChjRuJqcDyPe0oK5DF4Wc8b2NoJu5bHWPDevKFQbP5TRkxewFpTaEZPlJMjPjF1KTrJTyGESr7u8PJQpQ8c0Ae7hYcf/NJ6jtWSARatkWCmkPIsf/uA8h080pRmsU2w79RlJ2KDxRd4R/fMb/fOjXoqxLJY0jZDaMSkdk8C4nSMZWFaFbT1qWCXKE7J+zoX15ZDmYwPV36tsDeKhi907oyT9KoBoa50/D2zFuDYYwwgo7clvsowveuTFqUAgi53+EYz3Y8D2/z5N+aNZJF8205SP4oYr2O8bI8AycLGuXb0jlEtOQM5svUOHiYFdpOQvatvzQpuJ83TFkawZ7Qwx6Tw+Ti8qifD+V0skL88jM8ADYtg8O2zZ9WZ/h09hlGM8RDeOXnKCB96bHjFk2kjQiQVVFWBQZOB3DZ66hgc1HEirm3zw1E2Z4uvKnIrl+8pL62dwLUQGJDGi/32Ib7E/immFn4YTIgBDOkhZT9H/SaFtDNM8aMG0LJw6ucFJT1U4NyWc7j/e6JNwchAky7+ZDYDtw5oByu+6gT3VTTTbQxasrJACdqKT6eqRciklpfVgVkOtB9vUrl8rJK8Q/5yA0RBm8xwYxJ8a2t2hU/mmwT+ROWpPs9zJjgOP1YRVsMehY/AF+Jj0mf4AMWVzKS8QgLNz30tiIGxqMrPe2+FnHOhwfh3JKZds+a1KtTZLKV23EUzsK2Atv0ZX2G2trlG6wY8uDS7Y2mY52qrfX6gtka+x3qvwU0CEpopYrwNN/QBBpWu0hSX4dO+oZAFYQWMTEsvZo+zLW/uPj+sSzt355OexEGx9gqS+VSjS8R+eNWvEUhtPMFudqVIsPR0lCsfstun/5b2R+6zqkvfdhNni+l3D7zXUlzUVI978y/Vz8lJEOnn7LHSQ6khGdDpD5W+eJRDjt0qo1/6fyQl2zYOA==
-       properties :
-        x : 104
-        y : 102
         width : 48
         height : 48
        type : 8

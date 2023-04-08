@@ -26,11 +26,11 @@ window :
      -
        name : LIB_NB_BLOC
        identifier : 0x2429abad027cdedf
-       internal_properties : CAAAAAgAAACDREM7fmkOfFe0t6XSaV7QSBfe7Bu9F3NgzNUjQRgyqj6716ZX8qqgVIg/QNxFICqNjLLF0PsnEsF7kHg5Bqcz3Wt4bHz+vx34pI9v+FmJASyo8N78YIh3NaxASNz2loU7EhlgQOFX4OBLOl6NHqtAjuxSr8BqTLV/waQqk2rYXBYqpAMlQJuUQo/YJV9CNyOakQZonyTYxf0C04gT3beV8SAxoBsR5UslDmPyzUF86AX+nyqWJ0lZH8Pz6FoB1SL26MlLDaNUsobTzYjsGYTayhHvpUVB4RzidDIb3onQKUECc0tdqTjNRyc/bp/UvuDKBJtUheOic6CEfnGnNBjhpao+KW5co9HRnRnGUdjlwpEKQuokV0HhZgs1KYDbWUjXHR2I8humQfdbYPl9O4nnTYlmhNZXOPgy68SL6lZZpitgVfAAC+KZze8yp+9r1x0aP1pGh5dHVfDJfFcvMW8jtWWaNp4XioOx9qmAeqvvOrIuxKtkykj1lW4ACjVshbK0mGFOAvMEz5j0+vGvv2XBvdh6B6UnTfYX1MvlJi+6G1BJWJY/C8CauoACILiE8g==
+       internal_properties : CAAAAAgAAABEbW3vfV+xAejXB8sS2HrhJKAVPN+0glBmwVHIBZxzYJnF71WbKsUNBkXfMRhIyaoq1kuUZTgiY6Eq8gUO5EbG2hKpOOw6eK9+wFfpqMfw0O7UY4tlb0oVYMVlQ77YohFj7DUwitJvaC3NFkRmT628IVZup2HqiOjZIQsqbZOncvJSgJ9JBdkM/aiH4+3dRkGFefxaceFNwsq/4dp5BHERPWY4lG/EDltaOBKNGeOi45/oX2dBbPV0aPz1CUpi++n0djjFQEDZGLY+rWp/4qR+R9FwnZHkhlN85wtiGDFYPGJ26A9Uy5ouReCq9aVgyhvXOrJGgIGSzO6Lw6Kx0OhA4rLf97Vei4Dr6uROOu6LtzlPJLFCIvjxV6c3Y5UUVtr55AUpYlqrd5CRSJUOnCIrcWbCI3h8iyLxsYQptY1AVNn7QWXQkrFpOr+ElYBYNA98hH5jNRgIf/FpAl8l2YaDhWPrJMNqYcVCjC1Rvm6FiHKV61M9IGjime4u+Wd9ExKUKlV+nOaInx3wWyvIBKQuvDgIyIAqtmwxvzsaolsjcdaY6SyYcnX1K4q44w==
        properties :
         x : 5
         y : 62
-        width : 149
+        width : 120
         height : 45
        type : 3
        code_elements :
@@ -54,8 +54,8 @@ window :
        identifier : 0x2429aceb02f7bc0d
        internal_properties : CAAAAAgAAAAVasYavx2Drza5DtJhwGAW1E+yvrLPE+S9HGjaGYFXQVka3sVbuv3/ov6109ZlPSRcbkmFyCgzNJULUV+2lAkQmJww7mzy9a/vC2onfeTK1yoNku1difoUwG6Vb0vv7ItFWpsZpMbMJDcox1Odo918Iul7G7b029tzlsa7nI18G83zaJLjXyNjleKc80uO8NtTlzRal3H2VQWwVsOw8Ff4lStfmhmnEwk6hyfIfRBZFceuxur4MEO/FIx198KR+FyMuUE+uHoym07YAMg4gsKtillanHOl72TrvePPF35iVQRqnpwfIzXPp1hhNcSF9De4UdqPihA7VVDwJZN/7G8kFIC9v7bmrkyohJ4Zu6/CJ76w50THrE1EIZ2GYj9IbTRvKPJCXtOOmeBn/zPAbFtXUzYGnW9LO9RBXDTCUivj2uzPc2whHOfTgzrDmb6/EBc=
        properties :
-        x : 120
-        y : 110
+        x : 126
+        y : 87
         width : 34
         height : 20
        type : 3

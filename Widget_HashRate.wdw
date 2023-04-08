@@ -62,22 +62,6 @@ window :
        code_elements :
         type_code : 2
         p_codes : []
-     -
-       name : BTN_Refresh
-       identifier : 0x242bc41b0394454c
-       internal_properties : CAAAAAgAAABULQBw0o81rmvljRQHoL5V++1b6xq5+aaO9DB7iNdmgM9kquaYvB4hDIE6LdmLEVIMYO7sZ0rfEiDrXqTNtJ+PyZ5+bqZ3eqbmo8/jG6gUyoFIcB1z/m1NeeFpjZ9+/X27of5p9TZtRhlXREKFHfttexfy1gT51VRe+P5VAkaDzTVmWjkjxTVt4i46uwkQHRm6ybPd5Rk1d6zFmNvr33C/TvZAPsufV1T0UP/S06VxwVbf1Gut0oDCbQW5NQIdHbwOa1PH1Hc1c2JG47uhyRN/yFwGzyqZ2VuRolsG+WGqq5qkHhI9aX6pR7ryHauDSMp3A5HEkO5oeIN2gjVVVI2uNGzT0uIoQBXQPTEgM/83ZqBlCNZ1D1dljljFQr9IYmp/HHzC5Mck9CBFTb7bUWpjqCG0DsQwhA8Cmjm82+Gg+xwgSsp2UbeKLTFtgL+Rc3Vi2UOJ7HFD7G1F5bR7Kg5VHdAw6lWBGN00pkiYIWV/igX3a5XhrwxZB/Ckc9b/eRiS0yzZTyFj/XHriGIpYtbl6ZD7/rjag9fEfDLIXzAWY6jol2vgKi8L+O66LFLmwjO/WuHTaW7j2iY9WXnICtLIh5v/kZ/wCHn64mv4UiQ+8/MV6QyxNH1dUJuvJvruioVxk5pAknBPHZXrHkrORvo9RLw4k5gL6/m27g1dgU724U2XFjavg2S9yhMgavVupZzYdUmOTuZK93fz09ET/lomm1omTJBbpei4XBf74vKDWnW6n+2/AO39Rec+I4laRsvxH1FpaqguFcz2E9dn5ghCbO4bdUN40hp3R5jAd0u2gWBCqRqaz1WW+AXHiHOijTnz1cKMqN0IZ5czDmll5jqbIwSV9cWFF7ScvwkO7Vmj
-       properties :
-        x : 5
-        y : 120
-        width : 38
-        height : 36
-       type : 4
-       code_elements :
-        type_code : 4
-        p_codes :
-         -
-           type : 161
-           enabled : false
     type : 32
     code_elements :
      type_code : 70

@@ -83,6 +83,18 @@ project :
      internal_properties : CAAAAAgAAAD7VyNnRAEpMj2sj+1fccamP3xKEqnAjaJSenRy3Sf3Afv1wamaoTtTWsQ+unp2AvbeZg==
      physical_name : .\Widget_Halving.wdw
      type : 8
+   -
+     name : Widget_SommeTransférées
+     identifier : 0x44313692038144f1
+     internal_properties : CAAAAAgAAADZtYGFIh8XGCeEXXUtNqKli5iGTmUuO0mq4NagkYMTjXe5eloUL7OHgLoknGScZFS8RA==
+     physical_name : .\Widget_SommeTransférées.wdw
+     type : 8
+   -
+     name : Widget_FraisDeTransaction
+     identifier : 0x44312abc02fd06bf
+     internal_properties : CAAAAAgAAAA7FZF9fksYhlz6Azn2imP3QIp6hGgprrnPR9r40XUEu8Klh86SrTLBoT9BfqF5xi0+
+     physical_name : .\Widget_FraisDeTransaction.wdw
+     type : 8
   other_elements : []
   net_assemblies : []
   uwp_api : []
