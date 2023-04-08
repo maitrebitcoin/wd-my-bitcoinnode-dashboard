@@ -96,6 +96,8 @@ window :
          LIB_HEURE = DuréeVersChaîne( duree ,"HH:MM:SS")
          hash_en_chaine est chaine = gauche(hash_dernier_bloc.valeur, 4) + "..." + droite(hash_dernier_bloc.valeur, 12)
          LIB_HASH  = hash_en_chaine
+         indice_couleur est entier = HexaVersEntier( droite("" +hash_dernier_bloc.valeur,8))
+         LIb_HASH..CouleurFond = donnecouleur( indice_couleur,coulSériePastel )
         type : 234
  menu :
   name : _Menu
