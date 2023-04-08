@@ -84,6 +84,12 @@ project :
      physical_name : .\Widget_Halving.wdw
      type : 8
    -
+     name : Widget_Transasction
+     identifier : 0x443182ff0480cee8
+     internal_properties : CAAAAAgAAADRLQkdqtdfEN+MwSIuvaz4PV4IKKPEO9iKNIascZODrUvh5emUaHcveKIc5Kwk3Mw0PA==
+     physical_name : .\Widget_Transasction.wdw
+     type : 8
+   -
      name : Widget_SommeTransférées
      identifier : 0x44313692038144f1
      internal_properties : CAAAAAgAAADZtYGFIh8XGCeEXXUtNqKli5iGTmUuO0mq4NagkYMTjXe5eloUL7OHgLoknGScZFS8RA==
