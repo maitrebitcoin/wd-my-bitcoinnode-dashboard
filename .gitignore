@@ -6,9 +6,8 @@ Bin
 cache.gestion de sources
 Corbeille
 Groupware
-Lastsave
+Lastsavegit 
 Sauvegarde
-Gabarits
 *.cache
 *.cpl
 *.env
@@ -16,25 +15,10 @@ Gabarits
 *.waudit
 *.wdcoverage
 *.wpf
-*.dll
+*.DLL
 *.exe
 HstDuree.log
+Exe/config.ini
 Folder.ico
 desktop.ini
-
-#
-#WEBDEV
-*\res
-*.awl
-*.awp
-#
-# WINDEV Mobile 
-android
-*.xcode.gen
-Taches/Tache.FIC
-Taches/Tache.mmo
-Taches/Tache.ndx
-EXE/Exe win64 gui
-
-
-Svg_V27_20230120_0848
+Gabarits/
