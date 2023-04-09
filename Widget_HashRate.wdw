@@ -26,12 +26,12 @@ window :
      -
        name : LIB_HASHRATE
        identifier : 0x242a5dca07c39b55
-       internal_properties : CAAAAAgAAADU304cYKwSEm48Df7ChXFFyb+XsqwBggP6VxSB53+nZhJwd4vICrBHhTp2MrX0Ph1riZMRmWJ6nZJRZ5X4NP+8UMayOFq1Ql0SteFyZBUicWXVOzZVzhqMsRkj/ZZ+LmcnlBPB2H3BTvlHlZHzpXNh3N42eBihFUhTopSdW4snUKTkiB6/SFOjnFehodP2iEvTZRgZ6CPAv2V/3nRkbqZxSLFVBVlMVdOSaIPKpWHXWo2WGcn2TJBndRMMOmOLyrfcQ/4MSe3lKnvjMK4vxpeAU1DV8gqA105a+C11UYRC5H8sCJKTUJHrN/WkzA6z7qkIwrLJRfCJmQgIvT0+zwqknbi1HqCvOLsJ9xJvT5Wf0eY7nkIrZSUw9/hXTPLbXLJSnhNO9TPolpJUNDK/t1gLCtamsCWTIMU5VPKq8mR4utiZS9aB3YByXNC82Du5ZpuXoGr6YBGNZkMwuGb05kEqv1ElL+wmlvjkmclWjnIyu0qiT/2q5K8Xxb5cF3i1BgjMydze4RtSnhm9Q1k1PhlvCXQUg79wzx3QQHBbhML/JxbnZKs3ysYbEDw=
+       internal_properties : CAAAAAgAAAAPwY+f4kQf3Qm3YNTLXFEf9V38OCbvIs+eupVOZzCiTq+LmA4xzxqEf03iGXjd4n/bEDEr5aq5rEGtrIWwdqiUtorV+SlSzSw7/biiXsZxQGqYuCL1WH0kX303Pf7mN5FD/D1hiW/AlQErwgEmjKK+luEknrIlbNzmlBBTkuR/tt6UZWCHhdgcn7fZMK80NEN4tqKI83x4aUOiNoSY87OyCnnMc4h7yaKxywEoKxDy2lDN6FbaPxu/O4nkO4Q8XPLLP9AyzSc+RjHF3brkQIIPy8XK//bzdFxtl7cL5LoSFiBeGEW45Q4pIbr4jMOAajXlPGL3vmLM87hm4vfWqX9zMleD0+gmbRHK1Io2AX9s/6TmyFe+u/jko52ZDyVgmfyaaMZemX4QRYKz8gJ353mmqzA9+6pJfJyVRdCc697ZUJbgs3GmxEHmYommAVhLtuvQ0KQHmOgfW04oN+ymXFRZA++SsTY8lj8oZ7ECJflK4fZYg+z+Z3nWYLHwbYBqDNvANJLMBx5bXRLGhbyr+1jYxB2MRqpnQG6Xso+Yp8YembitSlqvE537zbNVC2EIdg==
        properties :
         x : 5
-        y : 62
-        width : 149
-        height : 45
+        y : 42
+        width : 123
+        height : 37
        type : 3
        code_elements :
         type_code : 2
@@ -44,7 +44,7 @@ window :
         x : 9
         y : 12
         width : 145
-        height : 53
+        height : 30
        type : 3
        code_elements :
         type_code : 2
@@ -55,8 +55,47 @@ window :
        internal_properties : CAAAAAgAAADv+nWJou5DgZZiV7IlGvOjKe8QeA2sIC19QRc2N+wuY9IUAz+9xd7/ofkrXdaeNBPMg5r0MV+js+WPUyBbr5uhMITnzX+Dz3y4tigFqzXFIZwoExyQPkYdooabmdhQ/Hu8asKp/yliCgJbbK5jRNkzi3jdqTd0DW+sDIwd027cv602FfQP8KVxqeYSyc+fC65d5dulZ8nUG1rdtyYVPDNr3f/1ctFNvdaDqmwDh3ji81mJ03uUbFr0ulTBZaetcZoTdU6jBgiKEt8Aee+7e3tASQWMH7YVun7nmGsJxs7HcV9f40tla51wiehXF3Se1ltxkLrLTVpwVPYxdgtpnjQ3rCj63hbTs6wDK4xo8l6qRlFx1CDSKKvLWXvSU4byT4ySX2A43rY7gHr0/IMH2PhceiGGZqd38a52pZD5Wsd88TQRbFPJOdJ3nPPEzsqKcPCFsSkADL9QXpBrmcur0ZD4BSaiWWwP9AKZyzRY4efA1UpvNOSCqR6j/R+ZdHjwSO9TZQN+pPosmiUbOaY=
        properties :
         x : 59
-        y : 110
+        y : 81
         width : 95
+        height : 20
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : TITRE_HashRate1
+       identifier : 0x243260230ada9966
+       internal_properties : CAAAAAgAAABsstDlfGqQAHjbr6jaSJA2/ofiVKAbZsIsWi7PWIbZrzfDis64X0WCrbtjmn/T7RzTpVX2Xskx6J2dk16uHHeqveayUR8Klhs0oO4HL8d87bNrB7+XqVKL4Lm51TLIc7820fU4j9nRY6lBBgYgBOhUl6ctxAZeLkPcw1Fkg/gFmC0Nze1Hj190kb8BKG1LMR99egijrqYgKxlTHtseggLFrmskK2k9pvVfhsFjWwGVYVEp0HxmZGD6khJA8CTP/GdaVN2vQrhJBsnKddANCzgepWr3AbD7Mdz5lL0xkYEWUa/je3Ql/rbKEGcswTcyYHXNmsJ5LCbf4ckxajLRzCd17BKKqEBYvCpQqbZ9YnJLNikEjCu+lhCmoaS5ijXAXK+zxjLCx8993FNobunled7zdaNZ/TXDzJKzpJxUoC8yJQdOxY2oUW74lAARCj0ldNuajStA2smt2famScXeUxD44mKNeEpLfGiELdPHd5VHSq7pSvBhAojdBXZfbMvyUz3SW+c=
+       properties :
+        x : 5
+        y : 97
+        width : 145
+        height : 30
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : LIB_NBBLOCK_RESTANT
+       identifier : 0x2432602e0ae0c587
+       internal_properties : CAAAAAgAAAAQfx4zhXlYGa98r70r5hcZpSpmM/yM9Xud78GOHFAAnM5b2O4qfKUigSqDMLWGF5HSXh5CWRRYxtwi9RvlefxFso6GCT/9bclfm9sPo335n2D6CMSlPl2kOFSFiMtGRkzq7SSTTbbsl/fJXlhNyUegW42TDS105FmyvIAqxkeASXg7Tp00U2iV31IwY6k9BUtVuQX8ver4GcDKLEbLGxQVS83sPgAIF6RofdGojE+2g07XB0pVbdcA2Pf/L2TRuBxlNFmPvcYz/P2KQOlE4E6BUvD2g3fDv2OoDmqNHiL3k/J5saZ1hCHUpQfSgonZbV5e4j1VE82qX18oDaO7MGpPJzJky+uDDsuv0/l6AYzcC1FO/6fIEQIbNuOxttdFQimVe+v1qYRBmWqgYd0S44wWbHIGCq4aXyZhNGUJVzggH0+vOcx1bRSgQD4XAPH/dYTOBUJjHnhKp/6RoE487fGBRzLj2AY9CfYGw+L2vYgZpkTyQsKhPth9afGffceYRtxemFujHE7Qt1BiAR71HaMwWZH2wL2JWTvTT3oifN/nLqbMQe757Gs=
+       properties :
+        x : 11
+        y : 115
+        width : 111
+        height : 45
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : LIB_Blocs
+       identifier : 0x243261360b50cd73
+       internal_properties : CAAAAAgAAABP9l5g1dCEM614Zt593CjygGAGHQb7jZAqDL+b2npwxIPkPDuOEK/moW08D+zMLMAgrcnDW29U1Rr7tL3FL4Q8oc9LHw6eviSVYe43Cv9Z9F+HaeerQjHNADtWp4XyNa/ai/BKpFDkoOHb2dI3I/ygO8R+hIJnaqkXTRg/a5Ig9rk5P5y7jig1Qv8iOUXNrMDmzQ906k+W5HB8AtFDCHbMahZy9ZJrxwa8WLsm3mrYou+EZTaRNekuppz5Q96+62GzmxTHy/YaGSNM/dfuYY1upFLCGjPxH6JGV5BZZC8cBOYPjAeNBvYB4D6IHPGvsZ7ZaCk3xu7GZ5bVd1/N2InjSetleDtY1EzMuFiQNvUcyE/YFRJw8MUTf769vIoHGPurbohfZbrPe5Or+psPz29Y38M7b0EmdU5cDlXuJUGscv5j1kgraCQy6Uu4EdRCuA==
+       properties :
+        x : 128
+        y : 133
+        width : 34
         height : 20
        type : 3
        code_elements :
@@ -69,7 +108,9 @@ window :
       -
         code : |1-
          PROCEDURE MaFenêtre()
+         
          difficullté est un numérique 
+         nb_bloc_restant est entier
       -
         code : |1+
          //difficutillté est un numérique = gclNoeud.getdifficulty()
@@ -85,6 +126,7 @@ window :
          soit (valeur_affichee,préfixe_si) = hashrateVersValeurAffichéeEtUnité(hasrate_par_sec)
          LIB_HASHRATE = valeur_affichee
          LIB_unité	 = préfixe_si +" hash/s"
+         LIB_NBBLOCK_RESTANT = nb_bloc_restant
          
         type : 234
  menu :
@@ -106,8 +148,9 @@ window :
      procedure_id : 1454203161096922623
      type_code : 14
      code : |1+
-      procédure onNouveuBlockValide(bloc_header est json <utile>)
+      procédure onNouveuBlockValide(bloc_header est json)
       difficullté = bloc_header.difficulty
+      nb_bloc_restant  = modulo( bloc_header.height, 2016)
       DemandeMiseAJourUI()
      type : 458752
   procedure_templates : []
